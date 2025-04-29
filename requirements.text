@@ -1,0 +1,8 @@
+pandas
+matplotlib
+nltk
+scipy
+flask
+flask-cors
+pyyaml
+seaborn
