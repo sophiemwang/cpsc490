@@ -1,0 +1,415 @@
+# https://www.mathworks.com/help/textanalytics/ref/vadersentimentscores.html
+# score ranges from -4 to 4
+
+# Food Taste & Quality
+delicious: 3.0
+mouthwatering: 3.0
+succulent: 2.5
+delectable: 2.5
+scrumptious: 2.5
+tasty: 2.5
+yummy: 2.5
+appetizing: 2.0
+delicate flavors: 2.0
+flavorful: 2.0
+savory: 2.0
+crispy: 1.5
+fresh: 1.5
+juicy: 2.0
+tender: 2.0
+really hot: 0.5
+could be worse: 0.5
+could be better: -0.5
+pretty standard: -0.5
+a mixed bag: -0.5
+standard fare: -0.5
+so-so: -0.5
+not bad: -0.5
+gets the job done: -0.5
+some hits and misses: -1.0
+okay: -1.0
+just okay: -1.0
+fine: -1.0
+meh: -1.0
+average: -1.0
+it was alright: -1.0
+middling: -1.0
+in the middle: -1.0
+has potential: -1.0
+not terrible: -1.0
+not great: -1.5
+a bit underwhelming: -1.5
+mediocre: -1.5
+nothing special: -1.5
+a little bland: -1.5
+satisfactory: -1.5
+sort of liked it: -1.5
+dry: -1.5
+bloody: -1.8
+good not great: -1.8
+good for what it is: -1.8
+it’s fine: -1.8
+average at best: -1.8
+kind of okay: -1.8
+bland: -1.8
+overcooked: -1.8
+lacked: -1.8  
+schtick: -1.8  
+didn’t blow me away: -1.8  
+just bland: -2.0  
+bare minimum: -2.0
+not special: -2.0  
+sub par: -2.0  
+unappealing: -2.0
+flavorless: -2.0
+greasy: -2.0
+stale: -2.0
+tough: -2.0
+tasteless: -2.0
+rubber: -2.0
+rubbery: -2.0
+chewiness: -2.0
+chewy: -2.0
+salty: -2.0
+pointless: -2.0
+uninspiring: -2.0
+slimy: -2.0
+ungarnished: -2.0
+watery: -2.0
+took long to arrive: -2.0
+blah: -2.0
+hit or miss: -2.0
+pre cooked: -2.0
+barely warm: -2.0  
+reheated: -2.0 
+long: -2.0
+lukewarm: -2.0
+sitting for a while: -2.0
+bad: -2.0
+too sweet: -2.0
+not yummy: -2.0
+unsatisfying: -2.0
+meh overall: -2.5
+not the freshest: -2.5
+more style than substance: -2.5
+not cooked to order: -2.5
+too salty: -2.5
+extremely long time: -2.5
+icky: -2.5
+so freaking salty: -2.5
+extremely salty: -2.5
+burnt: -2.5
+undercooked: -2.5
+lacked flavor: -2.5  
+missing seasoning: -2.5  
+not seasoned well: -2.5 
+unimpressed: -2.5
+genuinely shocked at the food: -2.5
+hair: -3.0
+tasted off: -3.0 
+inedible: -3.0
+rancid: -3.0
+scant meal: -3.0
+dislike everything being served: -3.0
+not worth eating: -3.0
+taste like nothing: -3.0
+disgusting: -3.5
+horrible meal: -3.5
+
+
+# Service & Staff
+courteous: 1.8
+polite: 1.8
+attentive: 1.8
+prompt: 1.5
+friendly: 1.5
+helpful: 1.5
+slow: -1.0
+slow service: -1.5
+kick us out: -1.5
+warn: -1.5
+risk: -1.5
+unprofessional: -2.0
+attitude: -2.0
+impolite: -2.0
+indifferent: -2.0
+unfriendly: -2.0
+little communication: -2.0
+misinformation: -2.0
+rough: -2.0
+confuse: -2.0
+embarrass: -2.0
+refused: -2.0
+unpleasant: -2.0
+disappointing: -2.0
+overwhelmed: -2.0
+overwhelming: -2.0
+annoying: -2.0
+glaring: -2.0
+yelling: -2.0
+greedy: -2.0
+rushed: -2.0
+greedy: -2.0
+delay: -2.0
+abrupt: -2.0
+curt: -2.0
+put out: -2.0
+not great: -2.0
+slow to check in: -2.0
+lack of flexibility: -2.0  
+fooled: -2.2  
+unmotivated service: -2.2
+dampened the service: -2.2
+not good: -2.5
+condescending: -2.5
+apologizing: -2.5  
+extreme delay: -2.5
+not friendly: -2.5
+most unfriendly: -2.5
+not professional: -2.5
+burden: -2.5
+shame: -2.5
+rude: -2.5
+awful: -2.5
+poorly: -2.5
+spit: -2.5
+aggravating: -2.5  
+ignorant: -2.5
+disrespectful: -2.5
+treated differently: -2.5
+not impressed: -2.5
+barely attentive: -2.5  
+left waiting: -2.5  
+lacked warmth: -2.5  
+poor communication: -2.5  
+staff not trained: -2.5 
+flag someone down: -2.5  
+barely acknowledged: -2.8  
+no hospitality: -3.0  
+felt neglected: -3.0  
+never checked in: -3.0  
+retaliatory: -3.0
+ignored us: -3.0
+rushed us out: -3.0
+discriminatory: -3.0
+discriminating: -3.0
+management overhaul: -3.0
+very little communication: -3.0
+horrible: -3.0
+huge letdown: -3.0
+bad customer service: -3.0
+worse: -3.0
+down hill: -3.0  
+forgot our order: -3.5
+treated poorly: -3.5
+felt invisible: -3.5
+never came back: -3.5
+horrified: -3.5  
+disconnected: -3.5
+robotic: -3.5
+frowned upon: -3.5
+complaining: -4.0
+unacceptable: -4.0
+never return: -4.0
+never again: -4.0
+never coming back: -4.0
+regret: -4.0
+
+# Ambiance & Atmosphere
+elegant: 2.2
+charming: 2.0
+romantic: 2.0
+intimate: 2.0
+stylish: 1.8
+atmospheric: 1.8
+comfortable: 1.8
+welcoming: 1.8
+spacious: 1.5
+cozy: 1.5
+pleasant: 1.5
+clean: 1.5
+inviting: 1.5
+modern: 1.2
+rustic: 1.2
+not all bad: -1.0
+dark: -1.0
+cold: -1.0
+noisy: -1.0
+cool down: -1.2  
+crammed: -1.2
+dated: -1.2
+stuffy: -1.5
+auto pilot: -1.5  
+negligible: -1.5  
+tired: -1.5  
+forced: -1.8  
+stiff: -1.8  
+messy: -1.8
+chaotic: -1.8
+shabby: -1.8
+sick: -1.8
+not cozy: -1.8  
+cold inside: -2.0  
+no atmosphere: -2.0  
+weird: -2.0  
+drab: -2.0  
+nothing inviting: -2.0  
+too loud: -2.0  
+uncomfortable: -2.0
+sad: -2.0
+ruse: -2.0
+fall: -2.0
+dingy: -2.0
+rundown: -2.0
+too noisy: -2.0
+disappointment: -2.0
+disappointed: -2.0
+too cold: -2.0
+lackluster: -2.0  
+pretentious: -2.0  
+uninspiring: -2.0  
+very uninspiring: -2.5
+dingy decor: -2.5
+chaotic vibe: -2.5
+bad sign: -2.5
+pathetic: -2.5
+cramped: -2.5
+mistake: -2.5
+boring: -2.5  
+awkward: -2.5  
+dead: -2.5  
+no charm: -2.5  
+big mistake: -3.0
+huge mistake: -3.0
+went downhill fast: -3.0
+dirty: -3.0
+despise: -3.0
+letdown: -3.0
+big insult: -3.0
+not welcoming: -3.0
+kill: -3.0
+waste of time: -3.0
+waste time: -3.0
+don’t waste your time: -3.5
+disaster: -3.5
+negative: -3.5
+worst: -4.0
+
+
+# Price & Value
+affordable: 1.5
+reasonable: 1.0
+cheap: 1.0
+splurge: -1.0
+splurging: -1.0
+over rated: -1.0
+overrated: -1.0
+cheaper: -1.0
+a bit overpriced: -1.0
+serious coin: -1.2  
+additional charge: -1.5  
+half full: -1.5
+not so cheap: -1.5
+pricey: -1.5
+pricy: -1.5
+steep ticket: -1.5
+premium price: -1.5
+high-priced: -1.5
+tiny: -1.5
+small: -1.5
+tiny portion: -2.0
+tiny portions: -2.0
+avoid: -2.0
+ok: -2.0
+just ok: -2.0
+mediocre at best: -2.0
+expecting more: -2.0  
+no where near great: -2.0
+not enjoyable: -2.0
+expensive: -2.0
+underwhelmed: -2.0  
+underwhelming: -2.0  
+vastly underwhelmed: -2.5  
+ripoff: -2.5
+for the price, expected more: -2.5
+very pricey: -2.5
+overpriced: -2.5
+not worth: -2.5
+save your money: -2.5
+really disappointed: -2.5
+let down: -2.5 
+left disappointed: -2.8
+extremely disappointed: -3.0
+very disappointed: -2.5  
+face of disappointment: -2.5  
+huge disappointment: -3.0  
+highly disappointed: -3.0 
+not coming back: -3.0
+not come back: -3.0
+felt ripped off: -3.0
+definately overpriced: -3.0
+not worth the price: -3.0
+very low: -3.0
+not go back: -3.0
+not worth it: -3.0
+don't go: -3.0
+go somewhere else: -3.0
+regret coming: -3.0
+not worth it: -3.0  
+not worth paying for: -3.0  
+tourist trap: -3.0  
+awful dining experience: -3.5
+waste of money: -3.5  
+over priced idiots: -3.5  
+will not go back: -3.5
+won’t be back: -3.5
+don’t recommend: -3.5
+total letdown: -3.5
+waste of time and money: -3.8
+
+# other common phrases in reviews 
+perfectly adequate: -0.5
+acceptable: -1.0
+I guess: -1.0  
+typical Yelp review: -1.0
+depends on what you’re looking for: -1.0
+wait: -1.2  
+if you like that kind of thing: -1.5
+pleasant but forgettable: -1.5
+middle of the road: -1.5
+pretty average: -1.5
+nothing amazing: -1.5
+might return: -1.5
+rooting for this place: -1.5
+felt mixed: -1.5
+wish i could say: -2.0
+not what i expected: -2.0
+expected more: -2.0
+somewhat disappointing: -2.0
+nothing stood out: -2.0  
+nothing to write home about: -2.0  
+forgettable: -2.0
+seen better: -2.0  
+forfeit: -2.2  
+barely passable: -2.5
+not quite what I hoped for: -2.5
+wish I liked it more: -2.5
+I hate to say this: -2.5
+unmemorable: -2.5
+hype failed: -2.5 
+joke: -2.5   
+troll: -2.5  
+not memorable: -2.5
+really don't care: -2.5    
+not my thing: -2.5  
+should’ve known better: -2.5
+hopes were far from met: -2.5
+had high hopes: -2.5
+not sure I’d return: -2.5
+I really don't want to do this: -2.5
+I was rooting for this place: -2.5
+learned my lesson: -3.0
+hard to recommend: -3.0
+do not recommend: -3.5
+lost my business: -4.0
+no reason to return: -4.0
