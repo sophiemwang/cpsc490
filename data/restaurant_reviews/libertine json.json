@@ -1,0 +1,2568 @@
+[{
+  "businessId": "q7lbzHyqaqa4LdqUxQMR1g",
+  "type": "business",
+  "url": "https://www.yelp.com/biz/libertine-new-york-3",
+  "title": "Libertine",
+  "rating": 3.3,
+  "reviewCount": 90,
+  "priceRange": null,
+  "categories": [
+    "French"
+  ],
+  "isClaimed": true,
+  "isBusinessClosed": false,
+  "yearEstablished": null,
+  "history": null,
+  "address": {
+    "city": "New York",
+    "regionCode": "NY",
+    "addressLine1": "684 Greenwich St",
+    "addressLine2": null,
+    "addressLine3": null,
+    "postalCode": "10014",
+    "formatted": "684 Greenwich St\nNew York, NY 10014"
+  },
+  "coordinates": [
+    {
+      "latitude": 40.732964,
+      "longitude": -74.007664
+    }
+  ],
+  "highlights": [],
+  "primaryPhoto": "https://s3-media0.fl.yelpcdn.com/bphoto/t6SBsrlZbVujGyDLs3CwIQ/o.jpg",
+  "reviews": [
+    {
+      "userName": "William M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=VzqmEIT6U-4NHhWXLyDG7g",
+      "isElite": false,
+      "rating": 3,
+      "date": "2025-02-22T03:56:57.000Z",
+      "review": "Fake pacific dover sole. Asked server before ordering if it was real deal Atlantic, he said it was. It wasn't. Kinda BS, I'm sure the bumpkin transplants don't know the difference. I would have ordered something else, very disappointing, they are not the same thing.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=NOtmrmKrw_BIssMreh-CJw",
+      "author": {
+        "id": "VzqmEIT6U-4NHhWXLyDG7g",
+        "name": "William M.",
+        "location": "Staten Island, NY",
+        "friendCount": 0,
+        "reviewCount": 13,
+        "businessPhotoCount": 1,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "mar b.",
+      "userUrl": "https://www.yelp.com/user_details?userid=XY0cL900RBBt1s1jdukkiA",
+      "isElite": false,
+      "rating": 4,
+      "date": "2025-02-21T20:20:14.000Z",
+      "review": "Welcoming staff that is very professional in a comfortable way. Great lighting. I could eat everything on their menu and in our few visits, I think we may have. The desserts are few but each one is exceptional. We are frequent travelers to France and this is about as close as you can get to an authentic Paris bistro here in NYC. We eat out a couple of nights a week and sample many restaurants, LIBERTINE remains a favorite.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=RMfBTTiSrPxbem7P0VATbw",
+      "author": {
+        "id": "XY0cL900RBBt1s1jdukkiA",
+        "name": "mar b.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Richard R.",
+      "userUrl": "https://www.yelp.com/user_details?userid=BrkzI0RDl1lZJ6ouVOFDmQ",
+      "isElite": false,
+      "rating": 2,
+      "date": "2024-11-19T21:39:38.000Z",
+      "review": "After considerable time and effort, I was able to snag a reservation at this highly rated and interesting restaurant. I was looking forward with great anticipation to a dish served everywhere in Paris, but hardly anywhere in New York: jambon persillé. Unfortunately, my wife and I had a rather middling meal with service to match. I'm by no means a new player on the New York food scene, but we might as well have been invisible to the staff and the proprietor, who spent considerable time fawning over repeat clients and took not a moment to inquire after our satisfaction, despite our presence smack in the middle of the room at a thimble sized table. I will not be surprised if, after the fuss subsides, the presence of those little blue boxes on Resy proliferates...\nQuel dommage...",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=14O8EmZjauVQdGhayjYYNQ",
+      "author": {
+        "id": "BrkzI0RDl1lZJ6ouVOFDmQ",
+        "name": "Richard R.",
+        "location": "Manhattan, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/GLLM8FNSfOL8DOBhLJCdfQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/GLLM8FNSfOL8DOBhLJCdfQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/GLLM8FNSfOL8DOBhLJCdfQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/GLLM8FNSfOL8DOBhLJCdfQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/GLLM8FNSfOL8DOBhLJCdfQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/GLLM8FNSfOL8DOBhLJCdfQ/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 42,
+        "businessPhotoCount": 5,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Eric B.",
+      "userUrl": "https://www.yelp.com/user_details?userid=Ddt6uHsSSQpjy0v7IGiSag",
+      "isElite": false,
+      "rating": 5,
+      "date": "2024-09-18T01:03:46.000Z",
+      "review": "Pricey -- but well worth the money. The chicken was good but the eggs were amazing. Def worth a visit.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=Z19MEE5CEdGxHsEcJnEwvQ",
+      "author": {
+        "id": "Ddt6uHsSSQpjy0v7IGiSag",
+        "name": "Eric B.",
+        "location": "Township of Washington, NJ",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/mRkxUZIgF4TQrWk9VHRRqA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/mRkxUZIgF4TQrWk9VHRRqA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/mRkxUZIgF4TQrWk9VHRRqA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/mRkxUZIgF4TQrWk9VHRRqA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/mRkxUZIgF4TQrWk9VHRRqA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/mRkxUZIgF4TQrWk9VHRRqA/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 11,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "L. F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=lG-f7xMhSX0n_lDwcayCmg",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-09-17T22:26:16.000Z",
+      "review": "Absolutely overrated and overpriced.  Staff is not the friendliest.  Also, given the price point,  I expected a much better looking restaurant.  Thumbs down!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=vFSizcAudvvjvDfft2ApQw",
+      "author": {
+        "id": "lG-f7xMhSX0n_lDwcayCmg",
+        "name": "L. F.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 23,
+        "businessPhotoCount": 2,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Vanessa C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=gSkHtZdyoL0-7iRdaAyIcA",
+      "isElite": false,
+      "rating": 3,
+      "date": "2024-08-24T15:33:06.000Z",
+      "review": "We came here because it was easy to snag a Friday night reservation the day before (which is amazing) and overall it was good but not great. The dishes are pretty small and the only stand out dish that I'd order again was the duck, which was delicious but also a little cold. Pricey but to be expected in the WV. 7/10 experience.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=fjeWoNjVeD9IFNsnZDLfVg",
+      "author": {
+        "id": "gSkHtZdyoL0-7iRdaAyIcA",
+        "name": "Vanessa C.",
+        "location": "Seminole, Tampa Bay, FL",
+        "friendCount": 0,
+        "reviewCount": 6,
+        "businessPhotoCount": 14,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Tara J.",
+      "userUrl": "https://www.yelp.com/user_details?userid=EQhJcAX90Zx-UWkXr8gYTg",
+      "isElite": false,
+      "rating": 5,
+      "date": "2024-08-19T12:48:18.000Z",
+      "review": "I love libertine. One of my favorite French restaurants and amazing staff. Great place to bring friends from out of town and get a good drink. I recommend the duck!!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=E8nA0tgUgObrkyI4MOVAVw",
+      "author": {
+        "id": "EQhJcAX90Zx-UWkXr8gYTg",
+        "name": "Tara J.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 6,
+        "businessPhotoCount": 7,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Angie M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=fH0gemX1RuEly-DcGv3EEA",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-08-02T19:10:08.000Z",
+      "review": "Price, food quality and food serving size, better wines and overall taste of pseudo French meals\n\nHorrible for those who know French food",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=Kv-N9RVnkDsviPyYG3YnsA",
+      "author": {
+        "id": "fH0gemX1RuEly-DcGv3EEA",
+        "name": "Angie M.",
+        "location": "Hollywood, FL",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/99UZ8vTFkdz00FOin2u35g/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/99UZ8vTFkdz00FOin2u35g/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/99UZ8vTFkdz00FOin2u35g/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/99UZ8vTFkdz00FOin2u35g/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/99UZ8vTFkdz00FOin2u35g/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/99UZ8vTFkdz00FOin2u35g/180s.jpg"
+        },
+        "friendCount": 18,
+        "reviewCount": 12,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Stewart L.",
+      "userUrl": "https://www.yelp.com/user_details?userid=ed04fKaRl8KQwNI9qWJ3Ig",
+      "isElite": true,
+      "rating": 4,
+      "date": "2024-07-07T18:10:26.000Z",
+      "review": "This restaurant had a lot of buzz when it opened last year, which is how I, a NY visitor, first heard about it.  Reservations are a bit easier to come by now.  I came here for a weekend lunch (they're only open for dinner weekdays).  The place is bright and airy, the ceiling is fairly high and the tables/booths generously spaced.  The decor is pretty classic French  bistro.  The menu is presented on chalkboards strategically placed.  There is some outdoor seating as well.\n\nFor lunch, Libertine offers both an a la carte menu and a 2-course \"formule\"  (starter and entrée) for $48, with 2 choices for each.  On this day the starter choices were their famous oeufs mayo or trout crudo; the entrée choices were scallop poelee or lamb braise.  I ordered the oeufs and the scallops, plus the bread and butter (anchovies are additional) and pate maison.  \n\nEverything was pretty stellar, especially the oeufs mayo (amped up with trout roe, so creamy) and the scallops (well-cooked and light).  I finished with a classic rice pudding.\n\nService was decent.  Libertine is on the pricey side, but is refined and worth another visit.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=HXKvBF1Kj9J1AkWeEyGATw",
+      "author": {
+        "id": "ed04fKaRl8KQwNI9qWJ3Ig",
+        "name": "Stewart L.",
+        "location": "Hastings Ranch, Pasadena, CA",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/Deg5wolvod9FhwagitmD1w/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/Deg5wolvod9FhwagitmD1w/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/Deg5wolvod9FhwagitmD1w/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/Deg5wolvod9FhwagitmD1w/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/Deg5wolvod9FhwagitmD1w/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/Deg5wolvod9FhwagitmD1w/180s.jpg"
+        },
+        "friendCount": 49,
+        "reviewCount": 173,
+        "businessPhotoCount": 2851,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Lucie H.",
+      "userUrl": "https://www.yelp.com/user_details?userid=29jNKNjb32BuTAAf4p8eFw",
+      "isElite": false,
+      "rating": 2,
+      "date": "2024-07-06T21:49:53.000Z",
+      "review": "Shit customer service. I walked in at 5pm and asked if I could grab a glass of wine and charge my phone, which was on 1% because I needed to get back to BK. The hostess said she couldn't spare her charger for 10 minutes because she'd \"have to spare it for everyone\" - the iPad was at 60% battery and the place was empty. Just made me feel like a second class citizen. Walked across the street to The Warren and they couldn't have been lovelier. The little things matter. How you treat people matters.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=vRUSR7j31kKxcGtK4upCWg",
+      "author": {
+        "id": "29jNKNjb32BuTAAf4p8eFw",
+        "name": "Lucie H.",
+        "location": "West Village, Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 4,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Claudia L.",
+      "userUrl": "https://www.yelp.com/user_details?userid=y3E0ru70qC7yacVqwaQ8FQ",
+      "isElite": true,
+      "rating": 5,
+      "date": "2024-07-04T02:03:01.000Z",
+      "review": "i brought my parents to libertine for father's day celebrations because french food is his favorite cuisine. libertine's bistro vibe might make one exclude it as a fine dining option (who cares for a dining room dress code anyway), but the quality of food says otherwise. needless to say, we were very impressed by every dish and the impeccable service. \n\na breakdown of what we ordered: \n- oeufs mayonnaise: of course we had to try the signature egg dish. while not my favorite appetizer, the tanginess in the homemade mayo is a flavor i have never experienced before! worth ordering. \n- scallops: this dish was bomb and the sauce was divine! we literally licked the plate clean. \n- lamb: my father loves lamb but be aware that this does not come on the bone. while he does prefer a bone-in experience, he said this was very tender. \n- duck 2 ways: one of the pricier entrees on the menu, but so good! the duck breast is incredibly flavorful and juicy with the perfect amount of crisp on the skin. the potsti accompaniment is also chefs kiss! \n- chicken: chicken is usually such a bland protein but whatever the chefs are doing here needs to be studied! this is literally the most tender chicken i have ever had. DONT SKIP THIS! \n\nour server was attentive the entire meal! we appreciated that he took extra time to ensure we understood the entirely french menu. looking forward to returning to libertine!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=GyqtwM7qepX--TBatL2hFQ",
+      "author": {
+        "id": "y3E0ru70qC7yacVqwaQ8FQ",
+        "name": "Claudia L.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/n6DMcHlMEqaLtRxm-zkF4g/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/n6DMcHlMEqaLtRxm-zkF4g/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/n6DMcHlMEqaLtRxm-zkF4g/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/n6DMcHlMEqaLtRxm-zkF4g/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/n6DMcHlMEqaLtRxm-zkF4g/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/n6DMcHlMEqaLtRxm-zkF4g/180s.jpg"
+        },
+        "friendCount": 16,
+        "reviewCount": 80,
+        "businessPhotoCount": 135,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Tsvika K.",
+      "userUrl": "https://www.yelp.com/user_details?userid=vDWv9kF8MGa3hKI1lTjsIw",
+      "isElite": true,
+      "rating": 5,
+      "date": "2024-06-27T20:27:38.000Z",
+      "review": "Kind of serendipity , cause we were suppose to dine around Columbus circle (Italian) and ended up in this charming very neighborhoody excellent French restaurant.\nMenu on the wall and most likely change often , the least fav of us was the pate maison but even though , it was creamy enough and delicious.\nOur fav was the scallop dish , fantastically flavorable and melting followed by the very intriguing lamb dish (I was wrongly skeptical) and excellent fish of the market the Dover Sole , large enough for two and exquisite. \nEnding with smooth dark chocolate mouse & cream was the right thing to do .\nVery professional knowledgeable staff .\n\nHighly recommended !!!!\n\nDefinitely A destination!!!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=c5mUZ0BmthrwtS8da8crHQ",
+      "author": {
+        "id": "vDWv9kF8MGa3hKI1lTjsIw",
+        "name": "Tsvika K.",
+        "location": "Manhattan, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/_e-16MvWqnZpnjmLyPGaJA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/_e-16MvWqnZpnjmLyPGaJA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/_e-16MvWqnZpnjmLyPGaJA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/_e-16MvWqnZpnjmLyPGaJA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/_e-16MvWqnZpnjmLyPGaJA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/_e-16MvWqnZpnjmLyPGaJA/180s.jpg"
+        },
+        "friendCount": 21,
+        "reviewCount": 557,
+        "businessPhotoCount": 1,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Adam H.",
+      "userUrl": "https://www.yelp.com/user_details?userid=5GOArOxPblxuXfMQi_BXjg",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-06-20T02:11:59.000Z",
+      "review": "Over-rated would be the equivalent of saying James Patterson should not be in line for a Nobel Prize for Literature.  The scallop and seaweed appetizer was tasteless except for the half pound of salt that was dumped on the fish.  The duck entree - priced at a $68, a data point that would change Jerome Powell's view of inflationary pressure - had an un-seared layer of fat that  rendered - pun intended- the dish inedible.\n\nI hate to give a bad review unless nobody in the kitchen really gives a crap.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=6cL-2qBgUaZxG3TTLmZVtw",
+      "author": {
+        "id": "5GOArOxPblxuXfMQi_BXjg",
+        "name": "Adam H.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 4,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Jamila E.",
+      "userUrl": "https://www.yelp.com/user_details?userid=OvFetCsqKQaooNmvd6R8mw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2024-06-10T00:11:47.000Z",
+      "review": "Really wonderful food, great service, great drinks. Pretty pricey and VERY rich, though, so it's for a special occasion place for sure.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=0zwxe1F_YOgGGNjxRK4qsg",
+      "author": {
+        "id": "OvFetCsqKQaooNmvd6R8mw",
+        "name": "Jamila E.",
+        "location": "Brooklyn, Brooklyn, NY",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Citlali A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=G-Eg4WO2K_PelqvpcSh87Q",
+      "isElite": true,
+      "rating": 4,
+      "date": "2024-06-05T00:42:27.000Z",
+      "review": "Yum, can't wait to try more here! Super super nice hostess seated us outside in perfect weather. We enjoyed two beers and split the saussice over mash and it was delishhh! Can't wait to get back and try the duck two ways-- good to know ahead that the duck must be ordered at an inside table as the outside tables are too small to accommodate and they don't serve it outside. Can't wait to go back.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=DwTn0iCBiBkRvzBTfOdMFw",
+      "author": {
+        "id": "G-Eg4WO2K_PelqvpcSh87Q",
+        "name": "Citlali A.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/-ia_R0uYRxRsoS9C9vPXyw/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/-ia_R0uYRxRsoS9C9vPXyw/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/-ia_R0uYRxRsoS9C9vPXyw/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/-ia_R0uYRxRsoS9C9vPXyw/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/-ia_R0uYRxRsoS9C9vPXyw/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/-ia_R0uYRxRsoS9C9vPXyw/180s.jpg"
+        },
+        "friendCount": 440,
+        "reviewCount": 282,
+        "businessPhotoCount": 417,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Catherine F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=96GsWM5LCR9CxvAiUYWHPA",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-05-19T00:49:22.000Z",
+      "review": "Fake French. Sausage is utterly plain. Wine is weak. Overall blend. Chocolate mousse was the best part of the meal. Nice service, but misplaced accents on the menu. Incredibly disappointing, be sure to skip!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=P1ZYMh7aGPbSn7Q-SN3tHw",
+      "author": {
+        "id": "96GsWM5LCR9CxvAiUYWHPA",
+        "name": "Catherine F.",
+        "location": "Denver, CO",
+        "friendCount": 0,
+        "reviewCount": 21,
+        "businessPhotoCount": 24,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "J R.",
+      "userUrl": "https://www.yelp.com/user_details?userid=jyx9zy81aFkHhMacWUqvUg",
+      "isElite": false,
+      "rating": 2,
+      "date": "2024-05-18T23:42:27.000Z",
+      "review": "Pretentious as hell.  All style and attitude. Substance? meh. Feels like a con job. Lordy.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=42Ceaw5hYbQQY7SqOHZflg",
+      "author": {
+        "id": "jyx9zy81aFkHhMacWUqvUg",
+        "name": "J R.",
+        "location": "Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Keith C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=nWLnVuYhqeLG5j2AJZwk0w",
+      "isElite": false,
+      "rating": 4,
+      "date": "2024-05-12T00:20:07.000Z",
+      "review": "Quaint location, limited but unique selection of food.  Nice wine menu & delightful cocktails.   knowledgeable wait staff.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=rjg6QPx5xqE-sZdaLQnKAQ",
+      "author": {
+        "id": "nWLnVuYhqeLG5j2AJZwk0w",
+        "name": "Keith C.",
+        "location": "Northport, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/D8t-9uM_O7JvW9qC5-vYKg/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/D8t-9uM_O7JvW9qC5-vYKg/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/D8t-9uM_O7JvW9qC5-vYKg/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/D8t-9uM_O7JvW9qC5-vYKg/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/D8t-9uM_O7JvW9qC5-vYKg/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/D8t-9uM_O7JvW9qC5-vYKg/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 73,
+        "businessPhotoCount": 16,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "John A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=SlZNWyQPTK7A9p03_maCvQ",
+      "isElite": true,
+      "rating": 4,
+      "date": "2024-05-07T11:04:05.000Z",
+      "review": "Wow -- this friendly neighborhood-y place was not what I was expecting when I heard the name \"Libertine.\"  \n\nOk, ok it was, in fact, because I read the reviews.  I suppose if I had to connect the name with the experience, I would say that the warmth of the place, the wholesome and creative preparation was seductive.\n\nWe arrived late (thank you NY traffic) and could easily have been turned away.  Instead we were greeted with glasses of champagne until two seats at the bar opened up.  For me, I would skip the scallop next time because the standout were the entrees. Mi oni -- the duck (or ducks as they say) was amazing.  And the Dover sole!  Crispy skin was a nice textural contrast to the tenderness of the sole and silkiness of the sauce.\n\nAs we chatted with the bartenders\nand others at the bar -- we would be forgiven if we thought we had entered a home in the French countryside much less the streets of Paris.  Unfortunately, we had to rush out to a show but not before the bartender treated us to some home made amaro!  What a delightful way to end the meal.\n\nFor better or worse, I am not a libertine but I did open my palate to the experience that night and was glad I did.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=Eqt1SrJoX7WGgbeK6U5hdg",
+      "author": {
+        "id": "SlZNWyQPTK7A9p03_maCvQ",
+        "name": "John A.",
+        "location": "Boston, MA",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/vgWFIML0WDmANYxhaX2T3Q/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/vgWFIML0WDmANYxhaX2T3Q/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/vgWFIML0WDmANYxhaX2T3Q/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/vgWFIML0WDmANYxhaX2T3Q/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/vgWFIML0WDmANYxhaX2T3Q/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/vgWFIML0WDmANYxhaX2T3Q/180s.jpg"
+        },
+        "friendCount": 49,
+        "reviewCount": 115,
+        "businessPhotoCount": 137,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Rachel S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=HpeuuvDl2Sk842O0CZygoA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2024-05-05T13:45:50.000Z",
+      "review": "I decided to dine here on a recommendation and I am so glad I did. It was still a little too cold to sit outside, but inside was cozy, not too loud and great for a catch up with an old friend. The service was absolutely excellent with an enthusiastic staff. The menu options were described to us in great detail and we were struggling to decide what sounded best!\n\nI was very impressed with the Ris De Veau and Scallop and Seaweed. The diver scallops were so fresh and all of the sauces were to die for. We loved the surprise dessert brought out to us- rice pudding with cashews and caramel drizzle.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=-4lq2xlwbyhTcstwc7m55g",
+      "author": {
+        "id": "HpeuuvDl2Sk842O0CZygoA",
+        "name": "Rachel S.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/sJGt48E_AlORxc_BiDo8jg/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/sJGt48E_AlORxc_BiDo8jg/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/sJGt48E_AlORxc_BiDo8jg/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/sJGt48E_AlORxc_BiDo8jg/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/sJGt48E_AlORxc_BiDo8jg/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/sJGt48E_AlORxc_BiDo8jg/180s.jpg"
+        },
+        "friendCount": 465,
+        "reviewCount": 119,
+        "businessPhotoCount": 150,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 1
+      }
+    },
+    {
+      "userName": "Roman V.",
+      "userUrl": "https://www.yelp.com/user_details?userid=ONvnqlgFjDO3C3GzndZxrA",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-03-17T01:26:54.000Z",
+      "review": "Nothing French about this \"French restaurant\" except bistro-styled basic furniture. Food is mediocre \"new-American\" and extremely overpriced. (duck breast is $75!) Tiny portions. The atmosphere is \"Balthatzar wanna be- but never made it\". Completely clueless hostess that seats large group with 3 constantly crying toddlers in the middle of the place immediately killing everyone's evening instead of the booth by the wall. Few staff ppl are simply drunk. Tables are too close to each other, feel of a cramped elevator. Definitely not a \"romantic place\". Too loud, too smelly. Not a relaxing place - which is a key to a \"French experience\". Just poorly run restaurant. Crowd is mostly asian tourists lured in by clever marketing and few locals. Their GM (Cody) is literally making out with the host by the bar (although nothing wrong if you into that while biting \"saucisse de porc\"). So many better choices around.They opened recently and hopefully will have enough time to visit Le Marais and learn the trade before they close. Waste of money.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=CfgeJLHfWaUVn5-Z4x-9rg",
+      "author": {
+        "id": "ONvnqlgFjDO3C3GzndZxrA",
+        "name": "Roman V.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Donna M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=NwVyZU4mHC3zZ-v4UGMEyw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-03-10T04:29:17.000Z",
+      "review": "Service started great. Then downhill. Prices high and food did not live up to hype or cost. One of the most disappointing dining experiences in all my years in nyc. Had high hopes. Oh well.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=nJ24p4RY75p9HE9iu6lnkA",
+      "author": {
+        "id": "NwVyZU4mHC3zZ-v4UGMEyw",
+        "name": "Donna M.",
+        "location": "SoMa, San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Kerry G.",
+      "userUrl": "https://www.yelp.com/user_details?userid=3JVr59WapDdaHwuz88mfiw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2024-03-09T02:31:03.000Z",
+      "review": "Unbelievably good. Every. Single. Thing. Perfect.\nThe food is the star but service, cocktails and wine list are all superb.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=5P0jMPHTN8HpVj0ePYG0Dw",
+      "author": {
+        "id": "3JVr59WapDdaHwuz88mfiw",
+        "name": "Kerry G.",
+        "location": "NY, NY",
+        "friendCount": 0,
+        "reviewCount": 7,
+        "businessPhotoCount": 1,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "M P.",
+      "userUrl": "https://www.yelp.com/user_details?userid=VJaWy72Ql2qFXe7HhsLysw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-03-02T21:30:01.000Z",
+      "review": "Horrible customer service. Food was subpar and not fresh. \nDishes were dirty, and waiters unpleasant. It was loud. What a miss - heard good things but when it comes down to it, a huge disappointment.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=6r9FHQV44X4H-45uTD-nAA",
+      "author": {
+        "id": "VJaWy72Ql2qFXe7HhsLysw",
+        "name": "M P.",
+        "location": "Manhattan, NY",
+        "friendCount": 58,
+        "reviewCount": 30,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Christian Y.",
+      "userUrl": "https://www.yelp.com/user_details?userid=QceDm1sVlQfgYyzOZWhaUg",
+      "isElite": true,
+      "rating": 5,
+      "date": "2024-02-27T03:09:48.000Z",
+      "review": "I came here for someone's birthday dinner without any expectations of the place and it became an incredible dining experience. The space is your typical French bistro style dining room with a couple of chalk board menus up on the walls, which is hard to see in the dim lighting. Our waiter brought a large chalkboard up to our table to see it, which was much appreciated. The menu is short and focused, but everything is delicious.\n\nWe started with the bread, which honestly, I think you can skip. At $9 for an okay baguette, it would be easy to pass. \n\nOnto the appetizers and mains \n- The Jambon Persille ($18) was slightly salty (it's ham after all) with a nice texture and enough bounce. It came with a lovely spicy mustard and cornichons to balance out the flavors. \n\n-The gnocchi Parisienne ($29) was surprisingly delicate and airy and came with a great mushroom sauce\n\n-Lamb a la Moutarde ($38) was tender and rich and flavorful\n\n-Duck Deux Facons ($72) is on the pricey side but so worth it! The \"shepherd's pie\" was cozy and the chunks of duck were super tender and juicy. The duck dish itself was very rich with a thin crispy chicharron-like skin.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=8gf6QbZlByvQzFrn5dUOcw",
+      "author": {
+        "id": "QceDm1sVlQfgYyzOZWhaUg",
+        "name": "Christian Y.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/mhMAOQExs5ELwLKOuqukEA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/mhMAOQExs5ELwLKOuqukEA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/mhMAOQExs5ELwLKOuqukEA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/mhMAOQExs5ELwLKOuqukEA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/mhMAOQExs5ELwLKOuqukEA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/mhMAOQExs5ELwLKOuqukEA/180s.jpg"
+        },
+        "friendCount": 114,
+        "reviewCount": 249,
+        "businessPhotoCount": 805,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Franny A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=uWnVvgXhopXEPdEcI2vXrQ",
+      "isElite": true,
+      "rating": 4,
+      "date": "2024-02-24T15:31:16.000Z",
+      "review": "Finally! Petit dejeuner lunch, emphasis on petit. Two courses are $48. This is a very popular restaurant for good reason. The care and attention to detail is unrivaled. A huge slab of French butter is at the entrance to the kitchen.\nThere are 3 entrees & 3 plats at lunch. Not ideal for me but we managed.\nAte:\nBread & butter $9\nTrout\nSalad\nMy fried ate\nTrout\nSausage plate\nThe trout was outstanding. Delicate & delicious with shaved leek and good moutarde.\nThey gave me a larger salad which was necessary\nThe sausage bite I tasted was also delicious.\nBreads bakery baguettes like Frenchette was perfect and the butter ooh La La,.\nNext time dinner..",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=rfCSE4-jjnfP0by_U0GqRA",
+      "author": {
+        "id": "uWnVvgXhopXEPdEcI2vXrQ",
+        "name": "Franny A.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/r2WFNk2CTNJ4UqkhQRTubQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/r2WFNk2CTNJ4UqkhQRTubQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/r2WFNk2CTNJ4UqkhQRTubQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/r2WFNk2CTNJ4UqkhQRTubQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/r2WFNk2CTNJ4UqkhQRTubQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/r2WFNk2CTNJ4UqkhQRTubQ/180s.jpg"
+        },
+        "friendCount": 1072,
+        "reviewCount": 1791,
+        "businessPhotoCount": 2899,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 1
+      }
+    },
+    {
+      "userName": "Shu Jin S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=UFcsAMlBDCOXz2iGvU7j9A",
+      "isElite": false,
+      "rating": 4,
+      "date": "2024-02-21T01:07:48.000Z",
+      "review": "Thank you Resy notify, because I managed to snap up a reservation on the same day and I'm going to be honest, I saw something on IG about the giant tower of butter that was shipped all the way from France and I HAD to come see what the hype was all about.\n\nThe reviews here are confusing. Yes, it's pricey, so file this under \"for special occasions and splurge worthy moments only.\" But the food? The food is simply divine. \n\nWhen I visited in at the end of last year, it was all decked out for Christmas, with the most beautiful, simple and elegant decor. \n\nWe started off with the Ouefs mayo soft boiled eggs -- which, I have to say, is last meal worthy (that good!). The beef tartare was exquisite and you HAVE to get the duck served two ways. It started with duck au poivre, and ends with roasted, fall off the bone duck covered in cheesy mashed potatoes. The duck dish alone is 6-star worthy. What a meal to remember.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=pK7tkUliyYOli68z9V5dsA",
+      "author": {
+        "id": "UFcsAMlBDCOXz2iGvU7j9A",
+        "name": "Shu Jin S.",
+        "location": "Brooklyn, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/pNlFYTj72qmGepKbAF2v3A/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/pNlFYTj72qmGepKbAF2v3A/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/pNlFYTj72qmGepKbAF2v3A/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/pNlFYTj72qmGepKbAF2v3A/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/pNlFYTj72qmGepKbAF2v3A/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/pNlFYTj72qmGepKbAF2v3A/180s.jpg"
+        },
+        "friendCount": 151,
+        "reviewCount": 1324,
+        "businessPhotoCount": 244,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Ayoub S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=AUqznwveBGAGfLF18IyNow",
+      "isElite": false,
+      "rating": 3,
+      "date": "2024-02-18T01:46:34.000Z",
+      "review": "Exceptional food 'complimented' by undrinkable wines.\n\nIf you like your delicious duck, alsatian sausage or seafood with a heavy touch of mouse, VA, nail polish remover, brett or kombucha, go ahead. \n\nWhoever orders wines for them, some sort of nothing added-nothing taken away amateur hipster, needs to hire a professional to create a balanced list that will attract people other than Brooklyn hipsters.\n\nKinda ruins entire experience, Max Mack",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=uZYs4hWK8fZGBlwWnjSSZQ",
+      "author": {
+        "id": "AUqznwveBGAGfLF18IyNow",
+        "name": "Ayoub S.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 6,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Steven H.",
+      "userUrl": "https://www.yelp.com/user_details?userid=eSfcotmiG1yWX8bQZof5bg",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-02-07T01:24:56.000Z",
+      "review": "I went to Libertine last weekend for brunch.  The service was good and the ambiance was satisfactory.  The food itself was overpriced and very pedestrian.  Also, despite having an entree selection (steak tartare) that fundamentally required bread, bread and butter was an additional charge.  Net net with a $48 dollar two course prix fixe per person, plus bread, plus a couple of drinks, it was well north of $150 for a lack-lustre brunch.  Would not recommend.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=h-hcQimWDFWb39GDD24CqA",
+      "author": {
+        "id": "eSfcotmiG1yWX8bQZof5bg",
+        "name": "Steven H.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Sara B.",
+      "userUrl": "https://www.yelp.com/user_details?userid=lCvZG1SieBUxukQmWhWUcQ",
+      "isElite": false,
+      "rating": 3,
+      "date": "2024-02-05T16:21:05.000Z",
+      "review": "Went for an early sunday night dinner. Very french bistro look, very loud, small tables. We got lucky to sit in a corner \"booth\". Servers all friendly and helpful.\nThe menu and bar are very restricted...I asked for a margarita with salt..\"we dont do salt\"...ok. How about a Cosmo...yes but not really. I ordered the margarita.\nIt was tasty. Food menu super restricted...what bistro doesnt have Steak Frites? This one. Three of us had monkfish, sausage, gnocchi and tartare. It was all pretty tasty...nothing was blow-me=away. Except the bill!\nWe had a nice time. Definitely do not need to return.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=CyaK0VPUfsZzTZE0SsGJxw",
+      "author": {
+        "id": "lCvZG1SieBUxukQmWhWUcQ",
+        "name": "Sara B.",
+        "location": "Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 8,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "John A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=5ob3--y5_8bBKD8Er2B6GA",
+      "isElite": false,
+      "rating": 2,
+      "date": "2024-01-29T01:31:52.000Z",
+      "review": "First of all, the dishes are way over priced.  It's priced like a premier West Village restaurant and it falls way short.  Just as an example, just the bread (standard baguette) is $9).  All the main dishes are in $50+ range.  My dish was tasty but nothing amazing.  Portions are small too.  Terrible value. \n\nMy main gripe was service.  Our waiter was dismissive of my wife and me from the first minute.  He seemed burdened when we asked him to walk us through some dishes.  Was rude throughout our meal.  Although he only checked on us once.  \n\nThere are much better restaurants and price points throughout West Village / Greenwich Village.\n\nTried once and won't be back.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=JAo22U5YDfDZfY5zM9597A",
+      "author": {
+        "id": "5ob3--y5_8bBKD8Er2B6GA",
+        "name": "John A.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/soddjtVspznQ9OYz-mTpMA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/soddjtVspznQ9OYz-mTpMA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/soddjtVspznQ9OYz-mTpMA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/soddjtVspznQ9OYz-mTpMA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/soddjtVspznQ9OYz-mTpMA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/soddjtVspznQ9OYz-mTpMA/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 8,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Stephanie Moser ..",
+      "userUrl": "https://www.yelp.com/user_details?userid=3miooMeChRa0lPU9t8x9wA",
+      "isElite": false,
+      "rating": 2,
+      "date": "2024-01-28T02:59:34.000Z",
+      "review": "As I live close by and grew up in Europe, where I spent every summer in France, I was very excited about going to dine at Libertine. Unfortunately, the experience was a disappointment. Upon arrival, the waiter didn't take the time to explain the menu at all. When we only ordered drinks and an entree, he asked if we want nothing else in an unfriendly way. Well, in retrospect I understand the question, as the portions were so small...but again, nobody took the time to explain the menu to us and how it works. I had the lamb for $38 and my husband the sausage for $34....and we both left hungry spending over $120 for dinner. The food was ok, but definitely overpriced and service was bad. At some point, as I took a small break with still food on my plate, they asked if we are done. And we were only there for 30 minutes at that point. Service was not attentive, and at this price point I would expect that. There are so many better options nearby such as Malatesta next door, Mary Lane with new American food or Tartine as a French alternative. Wouldn't recommend Libertine - seems overhyped and overpriced!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=uQD3g9UTf-jYiI7uA7ANjQ",
+      "author": {
+        "id": "3miooMeChRa0lPU9t8x9wA",
+        "name": "Stephanie Moser ..",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Felisa F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=JZ1QkXIszrMBtpDMZrWZog",
+      "isElite": true,
+      "rating": 5,
+      "date": "2024-01-21T14:13:15.000Z",
+      "review": "Libertine is still otherworldly. This is my 4th visit and I've eaten almost everything on the menu multiple times. \n\nThe Duck Deux Facons [$72] is perhaps the best dish on the menu. While not cheap and not for one person [though I could probably eat the whole thing], it is 100% worth it. The duck confit under the pillowy mashed potatoes is indescribable and the duck breast is deliciously fatty. \n\nThe gnocchi [$29] is soft and pillowy and melts in your mouth. \n\nMy friends and I had a reservation for 5:45PM on a Saturday and the place was already packed. I always find the service to be a bit rushed but it's expected when it's a hopping place and you need to turn tables.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=B-713QSrTtgMOPqKK8ddmQ",
+      "author": {
+        "id": "JZ1QkXIszrMBtpDMZrWZog",
+        "name": "Felisa F.",
+        "location": "Brooklyn, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/oJREp4ADatdcv4QPZRXi8w/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/oJREp4ADatdcv4QPZRXi8w/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/oJREp4ADatdcv4QPZRXi8w/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/oJREp4ADatdcv4QPZRXi8w/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/oJREp4ADatdcv4QPZRXi8w/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/oJREp4ADatdcv4QPZRXi8w/180s.jpg"
+        },
+        "friendCount": 99,
+        "reviewCount": 340,
+        "businessPhotoCount": 750,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 3,
+        "funnyCount": 0,
+        "coolCount": 2
+      }
+    },
+    {
+      "userName": "Renata J.",
+      "userUrl": "https://www.yelp.com/user_details?userid=fZawKTvYYwC9fTnz0zLqyQ",
+      "isElite": false,
+      "rating": 3,
+      "date": "2024-01-19T13:24:10.000Z",
+      "review": "I really liked the interior design and overall vibe. Fantastic. Like a younger sister to Pastis or Balthazar but not as crowded or noisy. Prior to going I checked the website for the menu and pricing, even though I was not going to be paying for my meal. No menu, no pricing. Hmmmm. \n\nThe menu is written on a chalkboard and your server brings over said board - a la Raoul's - and goes over everything. I was psyched to see duck - until I saw the price: $72. Yes, $72 for duck. Oh sorry, for duck *two ways* \n\nI was also kind of shocked at the by-the-glass wine prices, all in the $25+ range. I mean, the cocktails (most $19) were cheaper. Which works for me as someone who prefers a cocktail but seriously - your cheapest glass of wine is in the $20s? \n\nSo here's what went down. We ordered the bread, with butter and anchovies. They bring you a baguette which is not sliced, which would be fine if it weren't a bit on the not-fresh side and almost impossible to rip apart. Butter was lovely but...butter. And four anchovies. All that bread for four anchovies was a bummer.\n\nOeufs mayonnaise was great. My friend had the salmon, which she loved, and I had the lamb, which was a preparation that I hadn't had before but also liked very much. \n\nI'm not sure how to sum this up. If money isn't an issue or their prices are what you normally spend for a meal, I would say it is worth checking out.  If you're cool with $25/glass of wine, this would be a lovely regular neighborhood spot. Sadly, neither applies to me.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=mFY20-JpL8BMZpl4Zmbi6w",
+      "author": {
+        "id": "fZawKTvYYwC9fTnz0zLqyQ",
+        "name": "Renata J.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 55,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Isabella T.",
+      "userUrl": "https://www.yelp.com/user_details?userid=B_3SHlcstzC9btkwQQJpdg",
+      "isElite": true,
+      "rating": 4,
+      "date": "2024-01-15T17:33:28.000Z",
+      "review": "I had been wanting to try Libertine for a long time, so I recently came for dinner with a friend. We had a reservation at 6pm on a Saturday night which I definitely recommend for weekends if you want a table, otherwise you might have to sit at the bar (which is reserved for walk-ins). The hostess was very kind and promptly sat us at our table. This place is very cute and has the perfect, dimly lit, quiet, intimate vibe for a date. It is a small restaurant but it feels very open since it's in the corner and has windows around the whole establishment, plus it has small tables and rustic decor with which it successfully mimics European/Parisian bistro vibes. Our waitress was very amicable and came to get our drinks and food orders. She gave us input on what wine to get to pair with a specific dish, so my friend got a glass of red wine which he really enjoyed. They have a small food menu which is written on blackboards around the restaurant, very fitting for the small bistro vibe. Food-wise, I tried:\n\n- Scallop and Seaweed: was confused by the name at first but I believe the traditional name for this dish is Coquilles Saint Jacques, or at least it was a very similar dish. It was a very nice appetizer! This consists of a scallops on a shell which are brought out to you in a plate, oven baked with some cream+ white wine sauce au gratin. The scallops in the filling were delicious, and melted in your mouth. The portion size is pretty small but this dish packed so much flavor and was so rich/ decadent that I think sharing it was appropriate. Very nice flavors and textures!  \n\n- Duck Deux Façons: to be honest I came here mainly to try the duck and I was not disappointed. The duck came in two ways (as the name of the dish implies in French). One was a delicious pan fried (?) duck breast that was incredibly tender, had the perfect amount of fat to give it a nice flavor without feeling too oily, and had a nice crispy skin. It came in this very mild peppercorn cream sauce that complemented the umami flavors of the duck and balanced it out perfectly. The other was a Duck Confit Parmentier which had shredded duck at the base that has literally the most buttery and silky meat I've had. It just dissolved in your mouth without effort. This savory duck confit came baked with some creamy and fluffy mashed potatoes on top... a very decadent combination of textures and flavors. I really could not pick which one I liked better since both dishes were different and, I would argue, equally excellently executed. Portion size feels a little small for the hefty price tag but it was excellent. Worth it. \n\n- Rice Pudding: they have three options for dessert and my friend wanted to try the rice pudding. This was creamy, mildly sweet but not overwhelming and had a nice amount of cinnamon that was not overpowering. Decent portion size. I would not say this blew my mind like the other dishes but was just good. I really wanted to try the chocolate mousse but I will save that for if I come back in the future and I have high expectations!\n\nOverall, I had a good experience here! The service was very nice and welcoming while being a little more hands-off, in proper European style. The ambiance was a huge draw for me and I think it definitely lived up to my expectations. Very beautiful place and perfect for a date or intimate dinner with family. The food I tried (although limited) was excellent. My complaints are mainly how overpriced it feels for the portion sizes as well as how unreachable they are via phone-- I could not find their number anywhere and wanted to speak to someone about changing my reservation which caused me some anxiety given the penalty for cancelling a reservation via Resy. Overall, would recommend for a special occasion! Will be back for more duck and to try the chocolate mousse :)",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=KJqQPg9dVqpMK9sg1KIVBg",
+      "author": {
+        "id": "B_3SHlcstzC9btkwQQJpdg",
+        "name": "Isabella T.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/9s8RflUCGmuOyJSPYBE4jg/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/9s8RflUCGmuOyJSPYBE4jg/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/9s8RflUCGmuOyJSPYBE4jg/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/9s8RflUCGmuOyJSPYBE4jg/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/9s8RflUCGmuOyJSPYBE4jg/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/9s8RflUCGmuOyJSPYBE4jg/180s.jpg"
+        },
+        "friendCount": 49,
+        "reviewCount": 274,
+        "businessPhotoCount": 1345,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 1
+      }
+    },
+    {
+      "userName": "Jay E.",
+      "userUrl": "https://www.yelp.com/user_details?userid=JUyyOqWofxX3q15rtXxPAg",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-01-14T05:03:06.000Z",
+      "review": "Extremely disappointing across all dimensions - dish quality, pricing, portion size, menu selection, service. Will be surprised if this place lasts a year. \n\nMenu Selection - of the 8 small plates, 3 were sold out. The most notable entree - the duck two ways - was also sold out. How can that be on a Saturday night?\n\nDish Quality - we ordered the bread, chicken mouse, salad, eggs mayonnaise, lobster, gnocchi, sausage, and lamb. \n\nThe bread was a stale and hard as a brick. The mouse was good - light, balanced, with a hint of cognac. The eggs mayo was tasteless / bland. The lobster was okay - hard to mess up fresh lobster meat. The salad was unbearably salty. So was the gnocchi and lamb. Totally inedible. Especially the lamb - the mustard was present visually but tasteless. The lamb was ruined by turning it into an ill-conceived corn beef hash. The sausage was okay but nothing special. \n\nPricing / portions - exorbitant pricing given the poor dish quality and small portions. Also, $9 for that stale half baguette? Ridiculous. \n\nService - perhaps the most disappointing of all. First of all, the pacing was extremely off. The 5 starters we got all came out in a rushed jumble - all back to back with no spacing and within 15mins of us sitting down. We finished the starters by the 30min mark. Then we waited 45 minutes for the entrees to come, by which time we were no longer looking forward to them. \n\nThe server was okay. Nothing notable. At the end of the meal, the maitre d' brought our check. When we made it known we were disappointed that so many menu items were unavailable (on an already small menu), he said \"yeah so sorry. If you get the chance, come back a different night and try your luck again\". What a joke - there won't be a next time.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=K_SKgF_pNGjqLfhk11fPnQ",
+      "author": {
+        "id": "JUyyOqWofxX3q15rtXxPAg",
+        "name": "Jay E.",
+        "location": "Boston, MA",
+        "friendCount": 252,
+        "reviewCount": 15,
+        "businessPhotoCount": 9,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Andrea S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=Ifcp_91FMbWwPGOURLDUJw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2024-01-10T23:34:26.000Z",
+      "review": "Scallop was good. Not impressed by anything else, especially for the price point. There are many, many other restaurants serving duck that is delicious.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=U-z1FsS-oamqG07esjwAzA",
+      "author": {
+        "id": "Ifcp_91FMbWwPGOURLDUJw",
+        "name": "Andrea S.",
+        "location": "Manhattan, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/Au7y5RFl3LxLzL-ABhToVQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/Au7y5RFl3LxLzL-ABhToVQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/Au7y5RFl3LxLzL-ABhToVQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/Au7y5RFl3LxLzL-ABhToVQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/Au7y5RFl3LxLzL-ABhToVQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/Au7y5RFl3LxLzL-ABhToVQ/180s.jpg"
+        },
+        "friendCount": 141,
+        "reviewCount": 4,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Johnny L.",
+      "userUrl": "https://www.yelp.com/user_details?userid=IpdwVyxSA4RYX0gHb7GXVA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2024-01-04T19:45:06.000Z",
+      "review": "Not only does Libertine have some of the most authentic country style French food in the entire city, but the cocktails are absolutely superb as well. The service is impeccable without being pretentious or phony. There is simply no restaurant like it in the city! The decor, lighting and bar are all done so well. Love this place and always will!!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=BQPEOTz8LF7cT5f-tvH20A",
+      "author": {
+        "id": "IpdwVyxSA4RYX0gHb7GXVA",
+        "name": "Johnny L.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/0yABy8L9Ek75U8QIyhG8FQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/0yABy8L9Ek75U8QIyhG8FQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/0yABy8L9Ek75U8QIyhG8FQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/0yABy8L9Ek75U8QIyhG8FQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/0yABy8L9Ek75U8QIyhG8FQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/0yABy8L9Ek75U8QIyhG8FQ/180s.jpg"
+        },
+        "friendCount": 227,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Jeanette C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=RPt4lVAtwI8iXECL2WF16Q",
+      "isElite": false,
+      "rating": 3,
+      "date": "2023-12-30T04:07:38.000Z",
+      "review": "Perfect restaurant for American perception of French food! Libertine tastes like the idea of French food as described by an American to another American. If you love bread on the verge of going stale, chicken liver mousse that could be mistaken for blue cheese, and having dishes that would be pesant food in their hometown served at Michelin prices this is the place for you. The saucisse purée is bangers and mash by any other name. Importing your butter from Normandy is admirable, but it can't do ALL your heavy lifting (which it did), but hey, if you've never been to France, how would you know the difference for anything served to you? Libertine is perfect, it's every pompous stereotype of New York and France rolled into one over priced package. Next time I'll just fly to Paris and get 6 meals for what I paid here. God bless capitalism. \n\nOur server was probably the best thing in the restaurant outside of the butter. An absolute gem, and the poor guy has been employed to lie through his teeth about the food, but he knew how to pick a wine pairing.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=y_lfCjX14HW2TbzcrQyOPA",
+      "author": {
+        "id": "RPt4lVAtwI8iXECL2WF16Q",
+        "name": "Jeanette C.",
+        "location": "Oakland, CA",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/ocE_1sjeQvXpXRTuMAgJ0w/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/ocE_1sjeQvXpXRTuMAgJ0w/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/ocE_1sjeQvXpXRTuMAgJ0w/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/ocE_1sjeQvXpXRTuMAgJ0w/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/ocE_1sjeQvXpXRTuMAgJ0w/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/ocE_1sjeQvXpXRTuMAgJ0w/180s.jpg"
+        },
+        "friendCount": 6,
+        "reviewCount": 22,
+        "businessPhotoCount": 4,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Danny A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=0mHzC6RtsR4qDM1Ld6eHYg",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-12-22T19:30:40.000Z",
+      "review": "My partner and I sat down on a busy Sunday evening for dinner and couldn't be more happy with our experience. We began with a wonderful bottle selected by our sommelier and then moved into dinner. The meal was cohesive and the dishes were sized just right for the two of us. Once we finished our meal we opted to move to the bar for after dinner drinks. The staff was warm but enthusiastic, we can't wait to return!!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=A8iTddZJmW2YvRwYSUepIQ",
+      "author": {
+        "id": "0mHzC6RtsR4qDM1Ld6eHYg",
+        "name": "Danny A.",
+        "location": "Lower East Side, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Kat C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=OFgjDxPpdWROhjevpJX60w",
+      "isElite": true,
+      "rating": 4,
+      "date": "2023-12-20T23:16:28.000Z",
+      "review": "Well, what a fun night kicked off with excellent cocktails at the bar and ended with delicious aperitifs as we closed the place with the staff. The room is chill and inviting, with the quiet elegance of a bistro - maybe it's the lighting? The staff was super welcoming, knowledgeable, and I loved the bartender's skills. Having the menu on a blackboard sets the tone for a fun, interactive night. Overall, the food was delicious, and the wine list was fun to explore. \nOur only hiccup was related to our wine, which we discussed with the manager that it had experienced double fermentation, which gives wines a yeasty taste and bubbles. We were not able to switch our bottle, which impacted the meal. However, I contacted management, and the bill was addressed, and the feedback was appreciated. Kudos!! And thanks!! Yet it's too late to resolve the dining experience, which lacked the intended pairing of a beautiful French wine. The manager or sommelier that night should have replaced the bottle as requested. \nHighly recommended, and I will definitely return. Cheers",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=rEwaquRPCSr7w7GBR4dczQ",
+      "author": {
+        "id": "OFgjDxPpdWROhjevpJX60w",
+        "name": "Kat C.",
+        "location": "Short Hills, NJ",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/zqv2pKpUGlUAuvysVk3eBg/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/zqv2pKpUGlUAuvysVk3eBg/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/zqv2pKpUGlUAuvysVk3eBg/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/zqv2pKpUGlUAuvysVk3eBg/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/zqv2pKpUGlUAuvysVk3eBg/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/zqv2pKpUGlUAuvysVk3eBg/180s.jpg"
+        },
+        "friendCount": 42,
+        "reviewCount": 297,
+        "businessPhotoCount": 414,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 2,
+        "funnyCount": 1,
+        "coolCount": 2
+      }
+    },
+    {
+      "userName": "Maureen K.",
+      "userUrl": "https://www.yelp.com/user_details?userid=cWfmBZM13i6Spk8Iavnotw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-12-18T22:50:29.000Z",
+      "review": "Do not feed into the hype of this resturant!  We live in West Village and are the biggest supporters of local establishments that have a high standard of good food, wine and service.  Food was average , and expensive!   The wine is where my biggest criticism lies.  The quote from their Resy page states, \"Pro tip: This is where you should definitely order wine with your meal -- both Pruitt and Mackinnon are wine experts (Mackinnon was the former wine director at Jupiter and Roberta's), so you can trust it's a truly excellent list.\"    Pruitt and Mackinnon must have been off this particular Saturday night.  Short of sounding like a wine snob, we drink the best  of French burgundies (thru Chevaliers du Tastevin organization).  We aren't as familiar with the other regions of France, and sought out help of \"the somm\" to talk us through the wine list.  The bottle he selected for us was sent back - it lacked structure, tasted like plastic, and was warm.  We then attempted to try the wines by the glass,  which were equally warm and bad.  Some of us switched to water, and some switched to beer.   Perhaps these \"exclusively natural wines\"  are different than the true French wines.  Plus, all the wines we attempted to try were warm.  French wines should be stored/served around 60 degrees, so they must have sub-optimal storage.  There is better wine bars in the area!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=Mv9MIv0d778Ae3d6UapVdw",
+      "author": {
+        "id": "cWfmBZM13i6Spk8Iavnotw",
+        "name": "Maureen K.",
+        "location": "Sylvania, OH",
+        "friendCount": 0,
+        "reviewCount": 9,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Gregory C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=rYhNl6yFxtgEMZl2CjretA",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-12-17T06:33:46.000Z",
+      "review": "Food is terrible, simply don't go there...there are so many alternatives in the surrounding...",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=MThK9lHDP9Z4eI53BQyMvQ",
+      "author": {
+        "id": "rYhNl6yFxtgEMZl2CjretA",
+        "name": "Gregory C.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Juliet C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=9aWn3ozzFNwCQJwGK-7ZCg",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-12-12T02:20:44.000Z",
+      "review": "Was here on a Sunday night. It became completely packed by around 7:30/7:45pm. Very authentic French Bistro. It feels as if you're in a cafe in Paris. Our favorite dishes were the Tartare de Beouf, Duck and Monkfish. The Chocolate Mousse is perfect for dessert for the chocolate lovers.  \n\nService was great. Will definitely come back for another meal and/or for cocktails!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=gm64vZsJrK0MJZ94aOUXXQ",
+      "author": {
+        "id": "9aWn3ozzFNwCQJwGK-7ZCg",
+        "name": "Juliet C.",
+        "location": "Manhattan, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/LAf9vXWm6qFKqyfUthPW8A/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/LAf9vXWm6qFKqyfUthPW8A/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/LAf9vXWm6qFKqyfUthPW8A/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/LAf9vXWm6qFKqyfUthPW8A/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/LAf9vXWm6qFKqyfUthPW8A/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/LAf9vXWm6qFKqyfUthPW8A/180s.jpg"
+        },
+        "friendCount": 236,
+        "reviewCount": 84,
+        "businessPhotoCount": 297,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Lisa P.",
+      "userUrl": "https://www.yelp.com/user_details?userid=ApNJQENS6GtF0FMHxbNBSQ",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-12-09T01:41:22.000Z",
+      "review": "I'll start off by saying that I was really excited to visit Libertine. It's been steadily climbing up my list of places to dine in and finally I made a reservation and invited my mom for dinner. Unfortunately, the experience left us disappointed. \n\nThere are three parts to my review: \n\n(1) It is bizarrely loud. It's not a huge spot, but at 6pm on a Friday it was packed to the brim and everyone seemed to yell on top of their lungs. \n\n(2) We were advised by our waiter to order 2 appetizers and 2 mains for two people. We decided to order the things that intrigued us most -- oeuf mayo, lobster chou farci, tartare de boeuf, bread and butter for appetizers; and duck deux façons for entree. All of our appetizers arrived roughly around the same time. Once we were closer to finishing them, we agreed that we have space for more and asked our server if we could order two more appetizers. To which we were told no -- we do not allow customers to place any more orders after the initial one. At that point we've only been seated for 40 minutes, so it's not like it was a \"your time at the table is limited\" kind of situation. Very confusing. The duck breast arrived cold. The cook on it was good, but it's like eating cold steak. Pretty boring. \n\n(3) Here's the crux of the issue. I believe we were served by someone who is either new to the service industry, or someone who doesn't care to provide good customer service. Our waitress failed to: check in with us after our food has been served to ensure everything tasted good (\"how was your duck, by the way?\" was inquired at the very end of our meal...thanks, I guess); our dirty plates were not promptly removed from the table; crumbs were not wiped from the table surface; nobody talked to us about what's actually in the dishes we were served and plates were just silently dropped off one by one. \n\nThe whole experience left us...sad. Definitely won't be back or ever think about this place again. \n\nP.S. The only standout was the wine we had -- pandæmonium blanc sec from Mathieu Apffel. Damn good bottle.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=79DFn-5J5aFTwy0cwRldIA",
+      "author": {
+        "id": "ApNJQENS6GtF0FMHxbNBSQ",
+        "name": "Lisa P.",
+        "location": "Brooklyn, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/tUuJvQD3omHhss6XQYODdg/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/tUuJvQD3omHhss6XQYODdg/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/tUuJvQD3omHhss6XQYODdg/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/tUuJvQD3omHhss6XQYODdg/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/tUuJvQD3omHhss6XQYODdg/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/tUuJvQD3omHhss6XQYODdg/180s.jpg"
+        },
+        "friendCount": 7,
+        "reviewCount": 20,
+        "businessPhotoCount": 58,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Nathaniel B.",
+      "userUrl": "https://www.yelp.com/user_details?userid=2syi6X0C1ytttcMz6_6qbg",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-12-05T02:43:35.000Z",
+      "review": "Walked in with a bottle of Rhône from 2000 and was told that they didn't accept outside wine. I sent an email the day before and received no response in a full business day and they have no available phone number to reach out and ask about corkage availability. Upon checking the wine list, it's filled with esoteric natural options that are priced above market and would for sure taste funky so we opted for cocktails (our favorite part of the meal). We ordered the bread and butter with chicken liver mousse, oeuf mayo, lobster chou farci, scallop and seaweed, and the duck died faxcons. Immediately the bead and butter came with the chicken liver mousse and for 9 dollar plus a 9 dollar up charge for chicken liver mousse with receive probably 3 tablespoons of mousse and bread that wasn't cut, just half a baguette we had to rip with our hands. Initially was upset about the portions, followed by the flavor, acidic and tasted like bile. We then were served the cold appetizers almost immediately on our small two top. The lobster and eggs. The eggs were flavorless and without texture and the lobster, our favorite dish of the night, lacked flavor. Then the scallops and seaweed were served, overly fishy and plated poorly. After tasting each of these and our frustration with the wine we decided to cancel the duck and leave. Would not recommend for food, the Champs Elysses cocktail was very good.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=p5o5STBLeopurSORMohulQ",
+      "author": {
+        "id": "2syi6X0C1ytttcMz6_6qbg",
+        "name": "Nathaniel B.",
+        "location": "Midtown West, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 1,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Andrew D.",
+      "userUrl": "https://www.yelp.com/user_details?userid=ObhZTJWQ1bRA5k-BiKw7NQ",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-12-01T15:21:01.000Z",
+      "review": "It's a bistro that is very expensive and offers one of the shittiest vibes in NYC. The service is the only thing that is good about this place. Bar is first come first serve so expect people just hanging over your shoulder while you pay $75 for one dish.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=RUgLRaFsUBy8Mr2edoCutw",
+      "author": {
+        "id": "ObhZTJWQ1bRA5k-BiKw7NQ",
+        "name": "Andrew D.",
+        "location": "Brooklyn, Brooklyn, NY",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "David F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=3Q_yCjCDCcejZGFaKrNE3Q",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-11-25T02:47:05.000Z",
+      "review": "Its a \"vibe\" not a serious restaurant. Overpriced for what they serve. Great staff and fantastic drinks. The \"manager\" spent a lot of time playing kissy face with the hostess instead of attending to tables. If you are going to charge 3 star prices you need to have real restaurant people running your show, especially if there is an issue table-side. I live in nyc and felt like a  bridge and tunnel sucker while eating there.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=odAcUR_A3el_ayJEsD7nMA",
+      "author": {
+        "id": "3Q_yCjCDCcejZGFaKrNE3Q",
+        "name": "David F.",
+        "location": "Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 11,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Joe D.",
+      "userUrl": "https://www.yelp.com/user_details?userid=HOzgGrh8kiiNrNzv_EF6Gg",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-11-19T17:00:51.000Z",
+      "review": "Libertine is a phenomenal place for a cocktail or glass of wine. I came here prior to a dinner reservation elsewhere. The ambiance was chill. The service was top notch. The drinks were high quality. I recommend the dirty martini with house made gin. It was ice cold and presented well. It may have been the best I've ever had.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=i8xt9-24E2yxPJio_AaVTQ",
+      "author": {
+        "id": "HOzgGrh8kiiNrNzv_EF6Gg",
+        "name": "Joe D.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/dxDFXc-4VCuNb38IQzfc7g/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/dxDFXc-4VCuNb38IQzfc7g/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/dxDFXc-4VCuNb38IQzfc7g/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/dxDFXc-4VCuNb38IQzfc7g/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/dxDFXc-4VCuNb38IQzfc7g/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/dxDFXc-4VCuNb38IQzfc7g/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 85,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Stan S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=E2eDWXSrw1dCue4TcyYF5g",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-11-02T04:32:46.000Z",
+      "review": "A strange and disappointing experience. We waited weeks to get a reservation for a birthday dinner for three people. The guest of honor came with a folding bike and asked to stash it and the manager's response was a hostile and indifferent no. There was no attempt to accommodate. (we would have understood had the same message been delivered with a modicum of consideration). When it was time to be seated we were shown to a tiny bistro table that might work for a tight two but was really ludicrous for three. When the hostess was asked if, perhaps, another table might be available considering the occasion her reply was an irate \"What's wrong with this table??!!\". Things devolved pretty quickly from there. I'm sure the food is terrific, but we never got to try it. It's been a long time since I've been to a restaurant that had so little regard for its guests.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=uEN4AMUnZUcOO08PXyymJw",
+      "author": {
+        "id": "E2eDWXSrw1dCue4TcyYF5g",
+        "name": "Stan S.",
+        "location": "New York, NY",
+        "friendCount": 2,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Anthony D.",
+      "userUrl": "https://www.yelp.com/user_details?userid=NUcVy0CY028yg-88QCdJog",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-11-01T18:22:19.000Z",
+      "review": "We really enjoyed Libertine. Yes it's expensive, but so are other high end French bistros in the city like Frenchette. \n\nThe space is very bare bones bistro with menus presented on various chalk boards throughout the restaurant. We came at 5:15pm and by 6:30pm it was packed, reservations are recommended.\n\nFood wise everything was excellent.\n\nBread - this is half a baquette with butter. It was delicious, make sure to save some for the Ouefs Mayo.\n\nOuefs Mayo - hard boiled egg served in a mayo based sauce topped with trout roe. This was excellent and a must get appetizer. Save some bread to dip into the remaining sauce on the plate.\n\nJambon Persille - cooked ham layered in a terrine, it comes served with some spicy mustard on the side. Very good dish.\n\nTartare de Bouef - a nice portion of beef tartare, another excellent dish.\n\nCanard Deux Facons - you get two different serving styles of duck. One is a breast in a au pouvire sauce the other is confit shredded and mixed with mashed potato. A lot has been said about the $72 price tag, but it was the best dish of the night. The breast is cooked perfectly and I really liked the addition of the au pouvire sauce. The confit portion though was the star, phenomenal. The meat is shredded, super tender, and flavorful.\n\nSaucisse-Puree - sausage served on top of a potato puree. This was good.\n\nRice Pudding - excellent.\n\nLibertine is a great spot to visit for a meal in the West Village.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=jfgOuvrHLV5ungPedf_Sew",
+      "author": {
+        "id": "NUcVy0CY028yg-88QCdJog",
+        "name": "Anthony D.",
+        "location": "Midtown East, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 43,
+        "businessPhotoCount": 165,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Pauline B.",
+      "userUrl": "https://www.yelp.com/user_details?userid=VpzIs1rrAXLuz8tQ1HlmiA",
+      "isElite": false,
+      "rating": 3,
+      "date": "2023-10-28T23:33:11.000Z",
+      "review": "I was incredibly excited about the reservation, and left feeling so disappointed. The service was slow, our waitress barely even checked on our table, and the duck was one of the saltiest dishes I've ever eaten. We were two people, were still hungry at the end of the meal, and ended up paying 150 per person for a very average meal.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=jMQ1mPutBvaK5qNo24GJ-Q",
+      "author": {
+        "id": "VpzIs1rrAXLuz8tQ1HlmiA",
+        "name": "Pauline B.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 7,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Andrew S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=Rhlxj_ChluMgL3eYQjcGwA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-10-28T17:07:33.000Z",
+      "review": "Great food, wine, and cocktails. I've had a wonderful experience every time. Best sausage ever.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=LjSC244C1aOi0xRgr9N5Mw",
+      "author": {
+        "id": "Rhlxj_ChluMgL3eYQjcGwA",
+        "name": "Andrew S.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 1,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Kathy C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=pD4QuOQTb8rjLWiuHZ2giA",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-10-27T16:42:09.000Z",
+      "review": "Ate here in September.  Crowded, two different parties of women shrieking because it was insanely noisy.  Indifferent, hurried waiter, food uninspired and unmemorable, overpriced wine (4x retail, per Vivino).  Reservation, yet hastily seated in the middle of the room at two, very small bistro tables shoved together.   Just over $500 for 3 appetizers, 2 mains, 1 $80 bottle, and 4 cocktails.  Bonne chance, Libertine.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=aGHKGvFBEfLU6fXNQp8LcA",
+      "author": {
+        "id": "pD4QuOQTb8rjLWiuHZ2giA",
+        "name": "Kathy C.",
+        "location": "San Rafael, CA",
+        "friendCount": 0,
+        "reviewCount": 21,
+        "businessPhotoCount": 1,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Maisie W.",
+      "userUrl": "https://www.yelp.com/user_details?userid=SHZN044emRzWczdLuldJTw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-10-23T07:24:38.000Z",
+      "review": "Excellent cooking here (and I live in France; I should know!) and the server was extremely friendly and knowledgable. \n\nEnergetic vibe - get ready for a bustling, buzzy restaurant and a fun night out!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=h2beQ7Agq8l1R7imw7J_vw",
+      "author": {
+        "id": "SHZN044emRzWczdLuldJTw",
+        "name": "Maisie W.",
+        "location": "Brooklyn, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/ucst7hdVcUxaTmsJTx-olA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/ucst7hdVcUxaTmsJTx-olA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/ucst7hdVcUxaTmsJTx-olA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/ucst7hdVcUxaTmsJTx-olA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/ucst7hdVcUxaTmsJTx-olA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/ucst7hdVcUxaTmsJTx-olA/180s.jpg"
+        },
+        "friendCount": 254,
+        "reviewCount": 24,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 2,
+        "funnyCount": 1,
+        "coolCount": 1
+      }
+    },
+    {
+      "userName": "Jerry F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=MguFt11ubYoCQdS7JywHKA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-10-21T19:18:36.000Z",
+      "review": "Easily the best bistro in NYC. Five of us had dinner and nothing that came to the table was less than excellent. The wait staff is fun and knowledgeable. The food is thoughtful and presented beautifully and delicious desserts for surprisingly great. I would go back there in a heartbeat. I wish I lived closer.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=Kh2tldyX29G83t-F-vszGA",
+      "author": {
+        "id": "MguFt11ubYoCQdS7JywHKA",
+        "name": "Jerry F.",
+        "location": "Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 42,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Q Q.",
+      "userUrl": "https://www.yelp.com/user_details?userid=z1IfmlSous08GQVAgX0dBQ",
+      "isElite": false,
+      "rating": 3,
+      "date": "2023-10-20T17:39:21.000Z",
+      "review": "Long story short: Libertine is expensive with the food quality not living up to its price tag. \n\nWe got 3 appetizers, the scallops baked in a shell and the lobster en terrine (the fresh tarragon was a nice touch) were excellent, the gnocchi with mushrooms was good flavor-wise, but the gnocchi was too soft, should have been al dente.\n\nWe got the Duck Deux Facons ($72!) to share (but the portion was really only big enough for one person, that's why we got 3 apps).  It was the biggest disappointment. The duck breast was ok, nothing special, and the duck leg shredded mixed with mashed potatoes was simply too salty.  The knives we were given were so dull, it felt like we were sawing the meat apart.\n\nWe got two 2 desserts, the hazelnut rice pudding was excellent, the hazelnut was crunchy and so flavorful; the chocolate mouse was also pretty decent.\n\nI hope the restaurant either elevates its food quality or lowers its prices.  Otherwise we are unlikely to return. \n\nI do want to give a shout-out to our waiter, he was very friendly and knowledgeable of the menu.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=b-UC86tR1r-Ra4OIympkWQ",
+      "author": {
+        "id": "z1IfmlSous08GQVAgX0dBQ",
+        "name": "Q Q.",
+        "location": "Jersey City, NJ",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/3CLe5AOyGaRVBVOx-RB6pQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/3CLe5AOyGaRVBVOx-RB6pQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/3CLe5AOyGaRVBVOx-RB6pQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/3CLe5AOyGaRVBVOx-RB6pQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/3CLe5AOyGaRVBVOx-RB6pQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/3CLe5AOyGaRVBVOx-RB6pQ/180s.jpg"
+        },
+        "friendCount": 48,
+        "reviewCount": 48,
+        "businessPhotoCount": 12,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Winnie M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=ifejapr3--TE6gsOEvm5mw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-10-18T02:02:08.000Z",
+      "review": "Underwhelming food and overpriced. Wine list is laughable. Please save yourself a trip.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=qNfYiY5K_exfdTNXHnRKrw",
+      "author": {
+        "id": "ifejapr3--TE6gsOEvm5mw",
+        "name": "Winnie M.",
+        "location": "Queens Village, NY",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Jo J.",
+      "userUrl": "https://www.yelp.com/user_details?userid=R-jpmau3zQZ2-sEyyOq6rg",
+      "isElite": false,
+      "rating": 3,
+      "date": "2023-10-07T13:42:06.000Z",
+      "review": "Great server, average food, terrible hostess (truly) \n\nAmbiance is fine but overall still feels overhyped",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=o1vbo01d-T4SqUPqP5EF3g",
+      "author": {
+        "id": "R-jpmau3zQZ2-sEyyOq6rg",
+        "name": "Jo J.",
+        "location": "Hong Kong",
+        "friendCount": 131,
+        "reviewCount": 7,
+        "businessPhotoCount": 3,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Viv H.",
+      "userUrl": "https://www.yelp.com/user_details?userid=YkfspjtxOkuz6_H2KoiS6Q",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-10-03T04:58:34.000Z",
+      "review": "Below average west village spot that is absolutely not worth the money. Service is nonexistent and the food is sub par. I've been in New York for 15 years now, and I eat out quite often. Now that I'm a parent, I have to plan for eating out, pay for a sitter and Uber, and I need all my meals to knock it out the park for me to say it was worth it. Be prepared to spend a lot for a whole lot of nothing: You'd be better off going to a Keith McNally restaurant for French style brasserie food. This is not it.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=v35Lyu6cXdtDePf2LPb3_g",
+      "author": {
+        "id": "YkfspjtxOkuz6_H2KoiS6Q",
+        "name": "Viv H.",
+        "location": "Brooklyn, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/A8byjqadR9rP000Uo3I8Uw/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/A8byjqadR9rP000Uo3I8Uw/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/A8byjqadR9rP000Uo3I8Uw/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/A8byjqadR9rP000Uo3I8Uw/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/A8byjqadR9rP000Uo3I8Uw/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/A8byjqadR9rP000Uo3I8Uw/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 11,
+        "businessPhotoCount": 1,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Ryan K.",
+      "userUrl": "https://www.yelp.com/user_details?userid=p-fA84mqz0xvqQFrlC7EqQ",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-10-02T23:13:06.000Z",
+      "review": "Would like to start off by mentioning I typically don't leave reviews, and in this case I am since what could've been a good experience was unfortunately and utterly ruined by very poor service by our waiter. Not once were we checked in and asked how our food was, not once did the waiter pour us water, which was particularly surprising given we dined early in the evening when there were many empty tables so he did not have his hands full. \nThings got worse when we asked for the bill. Like many other restaurants, they had a pre-fixed tip option. I am okay with this but not when restaurants include the tax in the tip % amount as well. I adjusted the tip and still gave the waiter 20% (18% per the POS, and in which case given our very poor service was a large number by any regard), and he left without a word and hit me in the shoulder as he walked by.\nJust really disappointed by how poor the service could be at a rather new restaurant in the neighborhood and one that has potential. Unfortunately seems to be in line with many other reviews here as well, which I was late to see.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=-ti4LBAEJ1zEqQN4MNXjIA",
+      "author": {
+        "id": "p-fA84mqz0xvqQFrlC7EqQ",
+        "name": "Ryan K.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 3,
+        "funnyCount": 2,
+        "coolCount": 2
+      }
+    },
+    {
+      "userName": "Drew S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=PBaI9ojpFXo5zKG2p_YdcQ",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-10-02T15:22:39.000Z",
+      "review": "Food, team, vibe, wine, all perfection. No better and more authentic bistro service in nyc. A must go",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=dYZpmLSBX2vWZY8Lb-NLjQ",
+      "author": {
+        "id": "PBaI9ojpFXo5zKG2p_YdcQ",
+        "name": "Drew S.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/5ORW19XFwTdEQdJ__UaElQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/5ORW19XFwTdEQdJ__UaElQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/5ORW19XFwTdEQdJ__UaElQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/5ORW19XFwTdEQdJ__UaElQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/5ORW19XFwTdEQdJ__UaElQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/5ORW19XFwTdEQdJ__UaElQ/180s.jpg"
+        },
+        "friendCount": 331,
+        "reviewCount": 4,
+        "businessPhotoCount": 2,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Jordan F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=XAQRdukDOrtfB6sihC08FQ",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-10-01T20:49:14.000Z",
+      "review": "Fantastic food, wine, cocktails and service. Really enjoyed my visit. The duck was amazing.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=UcBUHhPp8r37i3aLGAKofQ",
+      "author": {
+        "id": "XAQRdukDOrtfB6sihC08FQ",
+        "name": "Jordan F.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 1,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Tom W.",
+      "userUrl": "https://www.yelp.com/user_details?userid=j5g_2bg1enfaI2GFpuMIUg",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-10-01T20:41:52.000Z",
+      "review": "Worst wine list in Manhattan. Do not go here if you are going to order wine. It is all overpriced organic of stuff that tastes the same. Sommelier needs to be replaced ASAP. Shame as food is good enough and the vibes are good",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=ixEpUQrh2GDqQgMFOPp-FQ",
+      "author": {
+        "id": "j5g_2bg1enfaI2GFpuMIUg",
+        "name": "Tom W.",
+        "location": "Lower East Side, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Nyc E.",
+      "userUrl": "https://www.yelp.com/user_details?userid=8Q2qPymcRHhB6zxfiOoB-Q",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-09-28T19:31:50.000Z",
+      "review": "Great Martini.\n\nTerrible Service, waitress was rude, hostess was rude... I let that go...\n\nFood... decent flavors... $300 later I left extremely hungry...\n\nBread....extremely hard and stale... good butter though. \n\nMashed potatoes... could've easily come from a box.....\n\nI don't know about this place. I'd consider going for a drink but never to eat again. No one wants to feel hungry when they leave an expensive meal. \n\nBe realistic!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=wLR9cfr27uutmwlqA4WpGA",
+      "author": {
+        "id": "8Q2qPymcRHhB6zxfiOoB-Q",
+        "name": "Nyc E.",
+        "location": "Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 40,
+        "businessPhotoCount": 2,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Anthony B.",
+      "userUrl": "https://www.yelp.com/user_details?userid=cqj6dE9HajMboNyYL98EYQ",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-09-27T17:25:28.000Z",
+      "review": "I came away thinking about the movie The Menu (in terms of how pretentious, gullible guests can be bamboozled by a restaurant's BS)! Libertine is as far from being a top French bistro as Katz's Deli would be. \n\nLibertine's  pricing is way out of wack ($19 for 4 egg halves slathered in mayo with a sprinkling of salmon roe? $72 for a duck dish combo of breast and confit?). The breast was very tasty and served in a poivrade (pepper) sauce.  It's companion (the leg confit) was salty, miserly and hidden under mashed potatoes to form some kind of confit shepherd's pie.  Very average. Didn't bother with the two desserts on offer.\n\nThe vibe was bustling at least.  \n\nThe two red wines I sampled by the glass were way too young and tannic (and expensive for '22 bottlings).\n\nWill not return and do not recommend.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=OwgLPx2c9qlRllCibkpJ0Q",
+      "author": {
+        "id": "cqj6dE9HajMboNyYL98EYQ",
+        "name": "Anthony B.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 17,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "David L.",
+      "userUrl": "https://www.yelp.com/user_details?userid=NV0u95G-WcjZRAfCX-jcWw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-09-16T05:12:37.000Z",
+      "review": "Beautiful neighborhood restaurant with wonderful food. I really loved how they treated the monkfish and the lobster. Will definitely return soon.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=4KlM2yzOaViyxFq8JtfHVg",
+      "author": {
+        "id": "NV0u95G-WcjZRAfCX-jcWw",
+        "name": "David L.",
+        "location": "Beverly Hills, CA",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/TcaGq641kSo6sfb-mS_BPQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/TcaGq641kSo6sfb-mS_BPQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/TcaGq641kSo6sfb-mS_BPQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/TcaGq641kSo6sfb-mS_BPQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/TcaGq641kSo6sfb-mS_BPQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/TcaGq641kSo6sfb-mS_BPQ/180s.jpg"
+        },
+        "friendCount": 925,
+        "reviewCount": 1516,
+        "businessPhotoCount": 3151,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 1
+      }
+    },
+    {
+      "userName": "Carlos D.",
+      "userUrl": "https://www.yelp.com/user_details?userid=vWTlPjWf0bpBwS0d0ftQfg",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-09-10T14:06:40.000Z",
+      "review": "Libertine is mediocre and overpriced. The alleged appeal is that it's authentically French. The food just ain't good very good though. \n\nI would have left 1 star for the food and price combo, but raising overall review to 2 stars due to the excellent service.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=NPOlawHKytzAneIxpbVHPA",
+      "author": {
+        "id": "vWTlPjWf0bpBwS0d0ftQfg",
+        "name": "Carlos D.",
+        "location": "Manhattan, New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/X9lZWh8iIZJ_Rh2hEHGpWA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/X9lZWh8iIZJ_Rh2hEHGpWA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/X9lZWh8iIZJ_Rh2hEHGpWA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/X9lZWh8iIZJ_Rh2hEHGpWA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/X9lZWh8iIZJ_Rh2hEHGpWA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/X9lZWh8iIZJ_Rh2hEHGpWA/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 14,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Laura T.",
+      "userUrl": "https://www.yelp.com/user_details?userid=U8R4lwSWGmPFJl81aTjLlQ",
+      "isElite": false,
+      "rating": 4,
+      "date": "2023-09-08T16:05:25.000Z",
+      "review": "Nice space.  It is small so I would definitely get reservations.  Service was good. \nFor cocktails, I tried the tonique? not sure of the name but it was tasty and I loved the long thin ice cube that kept the drink cold while not watering it down too much.  Wish more places would do this. \nWe started with bread + butter  and gnocchi appetizer.  Bread is very chewy - definitely fresh and the butter is great.  It would help if they might add some cuts so it's easier to tear the bread apart without squishing the whole loaf ( I am imagining the chef reading this - shaking his head thinking \" Mon dieu - these Americans....).  Gnocchi was really good - very light gnocchi.  \nMy husband had Saucisee Purée.  He said it was very good if it had been alittle hotter.  I had the monkfish which was good but was alittle mild in flavor. \nWe had chocolate mousse for dessert and it seemed alittle melted. \nOverall, it was a nice meal but pricey.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=FWD8K2-HJBDJRjBeemWF_w",
+      "author": {
+        "id": "U8R4lwSWGmPFJl81aTjLlQ",
+        "name": "Laura T.",
+        "location": "Hoboken, NJ",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/w-9_B9IQGS_642lMlDY_-Q/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/w-9_B9IQGS_642lMlDY_-Q/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/w-9_B9IQGS_642lMlDY_-Q/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/w-9_B9IQGS_642lMlDY_-Q/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/w-9_B9IQGS_642lMlDY_-Q/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/w-9_B9IQGS_642lMlDY_-Q/180s.jpg"
+        },
+        "friendCount": 14,
+        "reviewCount": 155,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 2,
+        "funnyCount": 0,
+        "coolCount": 1
+      }
+    },
+    {
+      "userName": "Anya Z.",
+      "userUrl": "https://www.yelp.com/user_details?userid=yXYca8bIqzsyk2AB0lncGw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-09-07T22:44:56.000Z",
+      "review": "This place just charged me $300 to change my reservation. Absolutely disgusting. Places like this will never survive in NYC ,there's a reason Raoul's is still going strong and it's because the food is amazing and they treat their customers with respect. You make French fries, get over yourselves.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=omEGFDeJlLP0094csx3TNw",
+      "author": {
+        "id": "yXYca8bIqzsyk2AB0lncGw",
+        "name": "Anya Z.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 49,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Kelly P.",
+      "userUrl": "https://www.yelp.com/user_details?userid=ak4WUUStivr7Z6LyxJc6Fw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-09-05T04:29:09.000Z",
+      "review": "Having eaten at Libertine at least once a week since their opening, I can confidently call it not only one of the best restaurants in the West Village but also the city. With a small but very well-curated and crafted menu and an incredible wine selection, both by the glass and the bottle, it's impossible to be bored even when eating or drinking multiple times a week. Often, I'll cook dinner at home but still come in for bread, butter, and wine afterwards -- which also speaks to their service. The bartenders and wait staff all walk the line between professionalism and warmth very well, which makes the space feel far more like your everyday watering hole than you'd expect given the ambiance (which is to say, it feels like a bistrot while also being far more elevated). I love Libertine, and while I absolutely root for their success.. I fear it! I'll miss my bar stool!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=wGZUlBKf79VZca9v5aU-tA",
+      "author": {
+        "id": "ak4WUUStivr7Z6LyxJc6Fw",
+        "name": "Kelly P.",
+        "location": "New York, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/M2f9LtshhuAZEXREVf50cQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/M2f9LtshhuAZEXREVf50cQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/M2f9LtshhuAZEXREVf50cQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/M2f9LtshhuAZEXREVf50cQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/M2f9LtshhuAZEXREVf50cQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/M2f9LtshhuAZEXREVf50cQ/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 4,
+        "businessPhotoCount": 3,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Natalya H.",
+      "userUrl": "https://www.yelp.com/user_details?userid=okEiwqKO6qhkqv0w-FMN1Q",
+      "isElite": false,
+      "rating": 2,
+      "date": "2023-08-30T20:02:33.000Z",
+      "review": "As someone who is French and has been to several French restaurants in Paris and NYC, I thought the meal was extremely underwhelming and overpriced. We got the bread and butter, the scallop & seaweed, and the jambon to start. The bread and butter for $9 is ridiculous (and most French bistros offer that for free), although the butter was good but I wasn't wowed. The scallop and seaweed was okay in terms of flavor, again underwhelmed and same with the jambon. We then got the duck deux façons and it had no taste and it was expensive at $72! Additionally, we got a bottle of beaujolais and it came out not chilled (supposed to be) and the pricing was insane ($80) and it tasted off. Like it wasn't stored properly or maybe it needed to be decanted but it didn't taste good. Overall, I don't think this place was worth the hype and the people giving 5 stars don't know real French food. It's sad because I was looking forward to try this place but I am never coming back. Also don't waste your money on this meal.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=OuW4Srpt4gEuwbYCU5f6JA",
+      "author": {
+        "id": "okEiwqKO6qhkqv0w-FMN1Q",
+        "name": "Natalya H.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Diya G.",
+      "userUrl": "https://www.yelp.com/user_details?userid=NJlqcJTJWSqSX2VukgzBCw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-08-28T17:23:22.000Z",
+      "review": "Food is really good and unique and service matches that. The ambiance is textbook New York cozy date night and right near the Christopher street path for easy access. Highly recommend the scallop and the ouefs in mayo which may sound odd but is delicious !",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=nrQD66UCv2lXSSAt3T3bxw",
+      "author": {
+        "id": "NJlqcJTJWSqSX2VukgzBCw",
+        "name": "Diya G.",
+        "location": "Miami, FL",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/UHl90YuTsUNuu9wDGxf3MQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/UHl90YuTsUNuu9wDGxf3MQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/UHl90YuTsUNuu9wDGxf3MQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/UHl90YuTsUNuu9wDGxf3MQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/UHl90YuTsUNuu9wDGxf3MQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/UHl90YuTsUNuu9wDGxf3MQ/180s.jpg"
+        },
+        "friendCount": 254,
+        "reviewCount": 64,
+        "businessPhotoCount": 56,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Michael L.",
+      "userUrl": "https://www.yelp.com/user_details?userid=70tSD6tomFCPnvPoXmEl2A",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-08-16T01:59:59.000Z",
+      "review": "The people who rated this place poorly simply just don't know food. All around amazing",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=Z0vt287M8TU2YNb7F5ohxA",
+      "author": {
+        "id": "70tSD6tomFCPnvPoXmEl2A",
+        "name": "Michael L.",
+        "location": "Manhattan, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 22,
+        "businessPhotoCount": 10,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Adele M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=q4KpzhjP7oqO4WBbrW4YQg",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-08-09T18:46:48.000Z",
+      "review": "New favorite spot in the city!!! Had an unbelievable experience here and cannot wait to come back. We were able to get a table using notify on resy, and I'm so glad we did!! Our server Alex was phenomenal, and the food was all beyond perfect. So so so glad the Libertine is around!!!!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=QxlUCnMVHgG5QmhOSXzokA",
+      "author": {
+        "id": "q4KpzhjP7oqO4WBbrW4YQg",
+        "name": "Adele M.",
+        "location": "Manhattan, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Frank A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=9s7AurWtJa3iV_h-gN2QGQ",
+      "isElite": true,
+      "rating": 4,
+      "date": "2023-08-06T18:32:56.000Z",
+      "review": "Libertine is virtually impossible to get into. With so many great restaurants you would have to imagine it is because the food is so incredibly amazing that everyone wants to go. The food is very good French bistro food, very good but not amazing. The service is excellent as well. The house cocktails are truly outstanding. Libertine is lacking in a number of respects, the noise level is simply off the charts (they need something to absorb the sound), the food execution is consistent (we had to send the scallop back because it was woefully overcooked) and the wine list -- which is entirely French is also entirely organic. While there is nothing wrong with organic wine, given the amazing breadth and depth of French wines they are essentially focusing on one-note wines when there are so much more to offer from France. Given how strong the cocktails are, it is disappointing that the wine list (we had an excellent Meursault) is in effect limited. Hopefully they will quickly adapt and live up to all the hype.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=kk29K79oNEly6Y3XFJSAeQ",
+      "author": {
+        "id": "9s7AurWtJa3iV_h-gN2QGQ",
+        "name": "Frank A.",
+        "location": "Manhattan, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/JS2sUQAPHex4C8EnEhXs1Q/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/JS2sUQAPHex4C8EnEhXs1Q/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/JS2sUQAPHex4C8EnEhXs1Q/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/JS2sUQAPHex4C8EnEhXs1Q/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/JS2sUQAPHex4C8EnEhXs1Q/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/JS2sUQAPHex4C8EnEhXs1Q/180s.jpg"
+        },
+        "friendCount": 1373,
+        "reviewCount": 1152,
+        "businessPhotoCount": 5607,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 2,
+        "funnyCount": 1,
+        "coolCount": 2
+      }
+    },
+    {
+      "userName": "Jose A.",
+      "userUrl": "https://www.yelp.com/user_details?userid=8dc39H5s3vsWNx_2WjlkGA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-08-06T04:04:32.000Z",
+      "review": "The culinary offerings at Libertine mirror the elegance and sophistication of the Parisian culinary scene. In a stroke of culinary genius, Libertine offers an extraordinary voyage to Paris without the need for a passport or an extravagant travel budget. Take a trip to Libertine! The menu is a love letter to French cuisine, each dish carefully crafted to evoke the essence of Paris. My personal favorites are the: Scallop & Seaweed, Tartare de Boeuf and Saucisse Puree. Try it for yourself! Bon appétit & au revoir!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=E1nvPzxmdlQWUn7ZaKgBXA",
+      "author": {
+        "id": "8dc39H5s3vsWNx_2WjlkGA",
+        "name": "Jose A.",
+        "location": "North Bergen, NJ",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/75Wn7pIADycWB9lf8v3JjQ/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/75Wn7pIADycWB9lf8v3JjQ/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/75Wn7pIADycWB9lf8v3JjQ/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/75Wn7pIADycWB9lf8v3JjQ/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/75Wn7pIADycWB9lf8v3JjQ/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/75Wn7pIADycWB9lf8v3JjQ/180s.jpg"
+        },
+        "friendCount": 211,
+        "reviewCount": 1,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Carrie P.",
+      "userUrl": "https://www.yelp.com/user_details?userid=BJ3CCvFv9l8eNH_cun2C_g",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-07-30T02:27:05.000Z",
+      "review": "I don't recommend this place. First I asked for a white shed in steel and the manager tried to tell me that the white they had was aged in really old barrels so it would be like steel.  I guess he thought I was stupid.  Of course I had to tell him no it's not the same.  There were 4 of us in the group and other than the mash potatoes nothing was good at all.  We had the cabbage stuffed with lobster.  I have no clue what they did to the lobster but the texture was foamy and tasteless. We had the duck which was raw so I despite the fact that we all love duck we didn't eat it.  The food was so tasteless that it's not even worth remembering.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=dU7zz7d4ZGfWKuoqKNNNWw",
+      "author": {
+        "id": "BJ3CCvFv9l8eNH_cun2C_g",
+        "name": "Carrie P.",
+        "location": "North Bergen, NJ",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/Tc4vUNR8jlPDleuuorbsFA/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/Tc4vUNR8jlPDleuuorbsFA/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/Tc4vUNR8jlPDleuuorbsFA/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/Tc4vUNR8jlPDleuuorbsFA/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/Tc4vUNR8jlPDleuuorbsFA/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/Tc4vUNR8jlPDleuuorbsFA/180s.jpg"
+        },
+        "friendCount": 3,
+        "reviewCount": 355,
+        "businessPhotoCount": 15,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Jinn F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=W3UUmlyb9e6mTJvQ2a-rTA",
+      "isElite": false,
+      "rating": 3,
+      "date": "2023-07-29T01:04:50.000Z",
+      "review": "The food was good but way overpriced.  Had the lamb, scallop, and gnocchi- but the portion size of main dishes (lamb and gnocchi) were appetizer sized.  Favorite was the lamb and scallop.  Really tiny portions for the price..  We ordered a bottle of riesling and that was priced 2.5x, not the standard 2 per retail.   \n\nService was very good and ambiance is nice. \n\nShame, the food is solid but I needed to get a slice after. I never do that. $236 for 3 ppl including tip.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=XECxHVYK8Urjsyd4zcXDDA",
+      "author": {
+        "id": "W3UUmlyb9e6mTJvQ2a-rTA",
+        "name": "Jinn F.",
+        "location": "New York, NY",
+        "friendCount": 136,
+        "reviewCount": 15,
+        "businessPhotoCount": 7,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 1,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Tom N.",
+      "userUrl": "https://www.yelp.com/user_details?userid=z7AjyybtiUUNsvPupL0JoA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-07-10T20:50:36.000Z",
+      "review": "Had a great meal here when they first opened. Service was amazing without being overbearing. Started things off with one of the best martinis I've ever had and then dove right into dinner paired with great wine. Menu highlights were the oeufs mayo and the chicken. Excited to try the rest of the menu next time.\n\nNot your typical cookie cutter 'natural wine bar'. Feels like you're in Paris. Can't wait to go back.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=eGVBXFzcWP4Db73TdfDFTA",
+      "author": {
+        "id": "z7AjyybtiUUNsvPupL0JoA",
+        "name": "Tom N.",
+        "location": "Brooklyn, NY",
+        "friendCount": 14,
+        "reviewCount": 12,
+        "businessPhotoCount": 1,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Sue G.",
+      "userUrl": "https://www.yelp.com/user_details?userid=_RLujolA4PYwxChH9xknbw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-07-09T13:41:25.000Z",
+      "review": "Great experience at Libertine. The atmosphere is adorable and very reminiscent of Paris. It's great that the tables are not on top of each other too. A rare highlight in nyc. The staff was great - friendly and attentive and checked in the perfect amount. \n\nWe went with:\nBread + butter: delicious\nChicken liver mousse: good but has a bit of a bitter aftertaste so I didn't love it \nScallop: delicious\nDuck: definitely the highlight. The confit was especially amazing but the duck was also the most tender I have ever had. The only negative was that it was more room temp on arrival which is not my personal fav \nChocolate mousse: nice sweet bite to finish the meal\n\nI would definitely go back",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=-7RFcFcB1e2nK8DFLVTe0Q",
+      "author": {
+        "id": "_RLujolA4PYwxChH9xknbw",
+        "name": "Sue G.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 133,
+        "businessPhotoCount": 7,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Lisa M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=CrJZktuI3RakXqjL_eZk2w",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-24T00:26:15.000Z",
+      "review": "Everything we ordered was incredible and we ordered many things! Steak tartare, scallops, oeufs mayonnaise, and duck (came with an incredible side dish) were the main highlights for us. Chicken and monkfish were very good too but preferred the other items. Chocolate mousse was simple and good.  \nCreative and refreshing cocktails.  Good wine list. \nComfortable, spacious seating in a charming setting.  Our server was knowledgeable and efficient.  So happy to have this special place in the West Village. Will definitely be back!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=-FvPaWsIQN_iCgfibOZ3ZQ",
+      "author": {
+        "id": "CrJZktuI3RakXqjL_eZk2w",
+        "name": "Lisa M.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 4,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Tafer S.",
+      "userUrl": "https://www.yelp.com/user_details?userid=j2hZaF5vywCaX3fiioZ0PA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-24T00:22:31.000Z",
+      "review": "This place was wonderful. The food and wine were way above most anything in the area. The chef cares about every detail down to the how the wine is grown and uniquely curated vintners.  The duck was over the top crispy and sumptuous. The side with the duck in a terrine was amazing as was the scallop and the egg with mayo. Very French yet also very original and super flavorful. Would highly recommend for outstanding food but also for true local bistro atmosphere. Great spot will return to often!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=jHV1f3402f5bKb0HqJG1OA",
+      "author": {
+        "id": "j2hZaF5vywCaX3fiioZ0PA",
+        "name": "Tafer S.",
+        "location": "Fort Lauderdale, FL",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/LbqZMe5nPgxcGGRBaxFpog/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/LbqZMe5nPgxcGGRBaxFpog/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/LbqZMe5nPgxcGGRBaxFpog/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/LbqZMe5nPgxcGGRBaxFpog/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/LbqZMe5nPgxcGGRBaxFpog/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/LbqZMe5nPgxcGGRBaxFpog/180s.jpg"
+        },
+        "friendCount": 0,
+        "reviewCount": 4,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Daniel P.",
+      "userUrl": "https://www.yelp.com/user_details?userid=cHTC0o0v_QfjOXNJ2IWxCw",
+      "isElite": false,
+      "rating": 1,
+      "date": "2023-06-18T22:27:11.000Z",
+      "review": "I really wanted to like this place and supposedly the food and drinks here are pretty good although I wouldn't know because I didn't get to try anything. Some friends and I tried to go here for a late dinner on Saturday around 11 as the place advertises being open until midnight. The hostess politely informed us that the kitchen was closed but invited us to have drinks at the bar. The bartender unfortunately was not as friendly or polite. He started out fine by asking how we were doing but when I stuttered while returning the question asking \"how- how about yourself?\" He immediately insisted that I was heavily slurring my words and that he wouldn't serve me a drink! I'm all for being a responsible barkeep but not only was he incorrect about me being intoxicated, he also just had a very rude and dismissive energy. When I worked at a bar if I suspected someone was too drunk to serve I would at least cordially ask a few questions to make a fair assessment and if I determined that it would be irresponsible to serve them then I would pour them a glass of water and as politely as possible let them know that I wouldn't be able to serve them anymore alcohol at the moment but would be happy to offer them something else. It's sad to go somewhere not have a bite of food or a sip of a drink and be left with such a bad taste in your mouth.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=AWsNgmi755im8_LOAbHuWA",
+      "author": {
+        "id": "cHTC0o0v_QfjOXNJ2IWxCw",
+        "name": "Daniel P.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 3,
+        "businessPhotoCount": 1,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Brad F.",
+      "userUrl": "https://www.yelp.com/user_details?userid=EqatbgAOaxolr7D1LOF2dw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-12T16:03:53.000Z",
+      "review": "This is really a magical place - makes me feel like I am on vacation in a small village in France. The restaurant has a buzz about it from the moment you walk in. Beautiful details on the ceilings, floors, walls. The cocktails are spot-on with perfectly clear ice and chilled glasses. The restaurant is beautiful with such attention to detail - the tables have the smallest lip around the edges that would be overlooked anywhere else. All the dishes are coming out of the kitchen at a really elevated level. Even  dishes that appear simple are utilizing top ingredients and technique. I think the wine list puts Libertine right at the forefront of wine programs here in the city. A real delight for anyone into \"natural\" wine - also called well produced wines if you disavow the \"natural\" moniker. :) I'm not an expert in Chartreuse but they have plenty of ice cold varieties to try. Most importantly, a restaurant that is comfortable to spend time in and a place that you want to come back to. Great addition to the neighborhood and wishing them many years of success!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=vtGg8F8r34XrI4gh8Z5Y3g",
+      "author": {
+        "id": "EqatbgAOaxolr7D1LOF2dw",
+        "name": "Brad F.",
+        "location": "San Francisco, CA",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 2,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Samuel M.",
+      "userUrl": "https://www.yelp.com/user_details?userid=KCYBrNpVWoiDRyXjkwXTbw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-12T13:19:05.000Z",
+      "review": "This new spot in the West Village is a true triumph. The food is exquisite and beautifully presented. The wine list is impressive and made approachable by the lovely staff who are generous with their time and knowledge.\n\nThe ambiance is friendly, warm, and unpretentious. It really did have the authentic feel of a bistro.\n\nOur waiter, Dominic, was extremely kind and made us feel like we were the only guests at the restaurant. It was a special evening that I will not soon forget, and worth every penny. Already planning my return trip.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=aM2lhmZeKBBHRtFSds77aQ",
+      "author": {
+        "id": "KCYBrNpVWoiDRyXjkwXTbw",
+        "name": "Samuel M.",
+        "location": "Boston, MA",
+        "friendCount": 1,
+        "reviewCount": 10,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Dylan H.",
+      "userUrl": "https://www.yelp.com/user_details?userid=sjZZ1D7oaMa7CWhkuhvgGw",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-11T02:39:25.000Z",
+      "review": "Outstanding food, atmosphere and service.  The village is lucky to have this establishment in the village. Local spot with upscale food and a fun vibe. Don't skip the duck - can't be beat.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=xmV5vSLPvJtaFBOyVUbvWA",
+      "author": {
+        "id": "sjZZ1D7oaMa7CWhkuhvgGw",
+        "name": "Dylan H.",
+        "location": "New York, NY",
+        "friendCount": 0,
+        "reviewCount": 2,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Christian K.",
+      "userUrl": "https://www.yelp.com/user_details?userid=vRbRRwGC_g4uw5AER8CUUA",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-03T20:15:18.000Z",
+      "review": "Cody has created a magical little slice of Paris in the West Village! Both the ambiance and an amazing food / wine lineup",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=YUrvn0-ZKrsqKk8o_c_JxQ",
+      "author": {
+        "id": "vRbRRwGC_g4uw5AER8CUUA",
+        "name": "Christian K.",
+        "location": "Manhattan, NY",
+        "friendCount": 0,
+        "reviewCount": 5,
+        "businessPhotoCount": 0,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Sina N.",
+      "userUrl": "https://www.yelp.com/user_details?userid=dlnwGZTdjrCBY40kY9J00g",
+      "isElite": false,
+      "rating": 5,
+      "date": "2023-06-03T18:29:30.000Z",
+      "review": "Rockstar team operating at a high level from top to bottom. Drinks coming out of the gorgeous bar have been on point while food leaves nothing to be desired. High level cooking with heart and the soul missing from most self proclaimed \"French bistros\" in NYC. A welcomed addition to the West Village community. Wine list is also spectacular. Special bottles from both reputable and lesser known producers with a clear focus on conscious wine making. I will be here very often.",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=KR47cuYe7b34ops1ughhEA",
+      "author": {
+        "id": "dlnwGZTdjrCBY40kY9J00g",
+        "name": "Sina N.",
+        "location": "Midtown East, New York, NY",
+        "friendCount": 0,
+        "reviewCount": 1,
+        "businessPhotoCount": 6,
+        "isElite": false
+      },
+      "feedback": {
+        "usefulCount": 0,
+        "funnyCount": 0,
+        "coolCount": 0
+      }
+    },
+    {
+      "userName": "Mike C.",
+      "userUrl": "https://www.yelp.com/user_details?userid=37cpUoM8hlkSQfReIEBd-Q",
+      "isElite": true,
+      "rating": 5,
+      "date": "2023-06-01T23:30:11.000Z",
+      "review": "An incredible new French bistro on a nice corner on Christopher Street. It's a small menu, but everything is a hit. Definitely start with the Oeufs Mayo and the Tartare de Beouf. For mains, the chicken is the showstopper but the Duck is also incredible. And do not miss the Rice Pudding for dessert!",
+      "reviewLanguage": "en",
+      "reviewLink": "https://www.yelp.com/biz/libertine-new-york-3?hrid=xm5RSv4BOEpHTURqmquKMQ",
+      "author": {
+        "id": "37cpUoM8hlkSQfReIEBd-Q",
+        "name": "Mike C.",
+        "location": "Forest Hills, NY",
+        "photoUrls": {
+          "mediaItemSrcUrl": "https://s3-media0.fl.yelpcdn.com/photo/De782H1-_KvJMSR9iE5skg/30s.jpg",
+          "mediaItemSrcSetUrl200x": "https://s3-media0.fl.yelpcdn.com/photo/De782H1-_KvJMSR9iE5skg/60s.jpg",
+          "mediaItemSrcSetUrl300x": "https://s3-media0.fl.yelpcdn.com/photo/De782H1-_KvJMSR9iE5skg/90s.jpg",
+          "__typename": "UserPhotoUrl",
+          "userSrc": "https://s3-media0.fl.yelpcdn.com/photo/De782H1-_KvJMSR9iE5skg/60s.jpg",
+          "userSrcSet200x": "https://s3-media0.fl.yelpcdn.com/photo/De782H1-_KvJMSR9iE5skg/120s.jpg",
+          "userSrcSet300x": "https://s3-media0.fl.yelpcdn.com/photo/De782H1-_KvJMSR9iE5skg/180s.jpg"
+        },
+        "friendCount": 5000,
+        "reviewCount": 2025,
+        "businessPhotoCount": 128445,
+        "isElite": true
+      },
+      "feedback": {
+        "usefulCount": 6,
+        "funnyCount": 2,
+        "coolCount": 3
+      }
+    }
+  ],
+  "operationHours": {
+    "Mon": "5:00 PM - 12:00 AM (Next day)",
+    "Tue": "5:00 PM - 12:00 AM (Next day)",
+    "Wed": "5:00 PM - 12:00 AM (Next day)",
+    "Thu": "5:00 PM - 12:00 AM (Next day)",
+    "Fri": "11:30 AM - 2:30 PM",
+    "Sat": "11:30 AM - 2:30 PM",
+    "Sun": "11:30 AM - 2:30 PM"
+  },
+  "amenities": [
+    "Takes Reservations",
+    "Offers Delivery",
+    "Offers Takeout",
+    "Wheelchair accessible",
+    "Accepts Credit Cards",
+    "Accepts Cryptocurrency",
+    "Casual",
+    "Moderate Noise",
+    "Offers Catering",
+    "Waiter Service",
+    "Full Bar",
+    "Dogs Allowed",
+    "Gender-neutral restrooms",
+    "Wi-Fi",
+    "Happy Hour Specials",
+    "Drive-Thru",
+    "TV",
+    "Heated Outdoor Seating",
+    "Covered Outdoor Seating",
+    "Private Dining",
+    "Bike Parking"
+  ],
+  "about": null,
+  "questions": [],
+  "website": "https://www.libertinenyc.com",
+  "phoneNumber": null,
+  "reservationUrl": "https://www.yelp.com/reservations/libertine-new-york-3",
+  "mediaCount": 178,
+  "media": [],
+  "startUrl": "https://www.yelp.com/biz/libertine-new-york-3"
+}]
