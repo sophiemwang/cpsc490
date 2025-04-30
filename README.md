@@ -1,11 +1,7 @@
 # cpsc490
 ## Setup Instructions
 
-1.  **Clone the Repository:**
-    ```bash
-    git clone <repository-url>
-    cd <project-directory>
-    ```
+1.  **Clone the Repository**
 
 2.  **Create and Activate Virtual Environment (Recommended):**
     ```bash
