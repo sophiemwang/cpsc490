@@ -1,4 +1,4 @@
-# cpsc490
+# CPSC 490: The Senior Project
 ## Setup Instructions
 
 1.  **Clone the Repository**
