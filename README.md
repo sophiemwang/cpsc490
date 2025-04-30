@@ -38,15 +38,15 @@
 
 Ensure your virtual environment is activated before running any commands.
 
-### Command-Line Analysis (`src/sentiment_analysis.py`)
-### Command-Line Metrics (`src/sa_score_analysis.py`)
+### Command-Line Analysis (`code/sentiment_analysis.py`)
+### Command-Line Metrics (`code/sa_score_analysis.py`)
 
 Output files (CSVs and PNGs) will be saved in the `data/output/` directory by default.
 
-### Web Application (`src/app.py`)
+### Web Application (`code/app.py`)
 
 1.  **Run the Flask development server:**
     ```bash
-    python -m src.app
+    python -m code.app
     ```
 2.  **Access the application:** Open your web browser and navigate to `http://127.0.0.1:5000` (or the address provided by Flask).
