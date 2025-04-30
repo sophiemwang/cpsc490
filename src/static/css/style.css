@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+#no-data-message {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+#loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#date-range-slider {
+    margin: 15px 10px 35px;
+}
+
+#date-range-slider .noUi-connect {
+    background: #6f42c1;
+}
+
+#date-range-min, #date-range-max {
+    font-size: 0.875rem;
+    color: #666;
+}
+
+.noUi-handle {
+    border-radius: 50%;
+    background-color: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.noUi-handle:before,
+.noUi-handle:after {
+    display: none;
+}
